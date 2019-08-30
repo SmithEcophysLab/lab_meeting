@@ -1,4 +1,5 @@
 # Topic Schedule for Fall 2019 Lab Meetings
+## Lab meeting time is 3-4 PM on Fridays, unless otherwise noted
 Below is a topic and snack schedule for every lab meeting this semester.
 **Please do not bring snack items that contain pistachios.**
 
