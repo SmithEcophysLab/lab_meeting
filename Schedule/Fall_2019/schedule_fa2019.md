@@ -16,10 +16,10 @@ At the beginning of each meeting we will discuss:
 new people intro, Morgan snacks
 
 ### September 13
-pick journals to keep track of, Xiulin analysis, Xiulin scnacks
+pick journals to keep track of, Nick writing, Nick Snacks 
 
 ### September 20
-Nick writing, Nick Snacks
+Xiulin analysis, Xiulin scnacks
 
 ### September 22
 NutNet harvest at 8 AM
