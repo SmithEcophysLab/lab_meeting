@@ -13,10 +13,10 @@ At the beginning of each meeting we will discuss:
 
 
 ### September 6
-pick journals to keep track of, new people intro, Morgan snacks
+new people intro, Morgan snacks
 
 ### September 13
-Xiulin analysis, Xiulin scnacks
+pick journals to keep track of, Xiulin analysis, Xiulin scnacks
 
 ### September 20
 Nick writing, Nick Snacks
