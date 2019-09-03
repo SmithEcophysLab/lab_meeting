@@ -21,14 +21,14 @@ Xiulin analysis, Xiulin scnacks
 ### September 20
 Nick writing, Nick Snacks
 
-### September 27
-Evan analysis, Evan snacks
-
-### September 29
+### September 22
 NutNet harvest at 8 AM
 
-### October 4
+### September 27
 NutNet ID (and sample pressing?), Abigail snacks
+
+### October 4
+Evan analysis, Evan snacks
 
 ### October 11
 Grad school talk and non-academia career path, Risa snacks
