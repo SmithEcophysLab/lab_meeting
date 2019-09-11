@@ -16,37 +16,48 @@ At the beginning of each meeting we will discuss:
 new people intro, Morgan snacks
 
 ### September 13
-pick journals to keep track of, Nick writing, Nick Snacks 
+CANCELLED
 
 ### September 20
-Xiulin analysis, Xiulin scnacks
+- pick journals to keep track of
+- Xiulin analysis
+- Xiulin snacks
 
 ### September 22
-NutNet harvest at 8 AM
+- NutNet harvest at 8 AM
 
 ### September 27
-NutNet ID (and sample pressing?), Abigail snacks
+- NutNet ID (and sample pressing?)
+- Abigail snacks
 
 ### October 4
-Evan analysis, Evan snacks
+- Evan analysis
+- Evan snacks
 
 ### October 11
-Grad school talk and non-academia career path, Risa snacks
+- Grad school talk and non-academia career path
+- Risa snacks
 
 ### October 18
-Xiulin writing, Bryn scnacks
+- Xiulin writing
+- Bryn scnacks
 
 ### October 25
-Risa analysis, Risa snacks
+- Risa analysis
+- Risa snacks
 
 ### November 1
-theory paper week 1, Morgan snacks
+- theory paper week 1
+- Morgan snacks
 
 ### November 8
-theory paper week 2, Mitej snacks
+- theory paper week 2
+- Mitej snacks
 
 ### November 15
-theory paper week 3, Dylan snacks
+- theory paper week 3
+- Dylan snacks
 
 ### November 22
-Evan writing, potluck snacks
+- Evan writing
+- potluck snacks
