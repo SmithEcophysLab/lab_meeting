@@ -24,18 +24,21 @@ CANCELLED
 - Xiulin snacks
 
 ### September 22
-- NutNet harvest at 8 AM
+- [CANCELLED] NutNet harvest at 8 AM
 
 ### September 27
-- NutNet ID (and sample pressing?)
+- Evan analysis
 - Abigail snacks
 
 ### October 4
-- Evan analysis
+- Grad school talk and non-academia career path
 - Evan snacks
 
+### October 6
+- [RESCHEDULED] NutNet harvest at 8 AM
+
 ### October 11
-- Grad school talk and non-academia career path
+- NutNet ID (and sample pressing?)
 - Risa snacks
 
 ### October 18
