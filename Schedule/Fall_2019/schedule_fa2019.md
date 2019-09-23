@@ -28,6 +28,7 @@ CANCELLED
 
 ### September 27
 - Evan analysis
+- Abigail experimental design
 - Abigail snacks
 
 ### October 4
