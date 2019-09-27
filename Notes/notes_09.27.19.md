@@ -13,5 +13,6 @@
 
 
 ## Post-meeting notes
-
+- Git on October 11
+- Abigail and Evan snacks on the 4th
 
