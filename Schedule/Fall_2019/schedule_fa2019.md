@@ -33,13 +33,14 @@ CANCELLED
 
 ### October 4
 - Grad school talk and non-academia career path
-- Evan snacks
+- Evan and Abigail snacks
 
 ### October 6
 - [RESCHEDULED] NutNet harvest at 8 AM
 
 ### October 11
 - NutNet ID (and sample pressing?)
+- Git basics
 - Risa snacks
 
 ### October 18
