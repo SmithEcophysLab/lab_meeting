@@ -49,7 +49,7 @@ CANCELLED
 - Bryn snacks
 
 ### October 25
-- Risa analysis
+- Risa paper
 - Risa snacks
 
 ### November 1
