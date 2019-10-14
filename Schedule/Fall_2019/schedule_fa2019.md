@@ -44,8 +44,9 @@ CANCELLED
 - Risa snacks
 
 ### October 18
-- Xiulin writing
-- Bryn scnacks
+- Git basics
+- Abigail GRFP
+- Bryn snacks
 
 ### October 25
 - Risa analysis
@@ -60,7 +61,7 @@ CANCELLED
 - Mitej snacks
 
 ### November 15
-- theory paper week 3
+- Xiulin writing?
 - Dylan snacks
 
 ### November 22
