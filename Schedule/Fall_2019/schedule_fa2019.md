@@ -49,7 +49,14 @@ CANCELLED
 - Bryn snacks
 
 ### October 25
-- Risa analysis
+- Discussion of Bastin article on tree planting
+	- [link to Bastin et al](https://science.sciencemag.org/content/365/6448/76)
+	- [link to comment 1](https://science.sciencemag.org/content/366/6463/eaay8060)
+	- [link to comment 2](https://science.sciencemag.org/content/366/6463/eaay7976)
+	- [link to comment 3](https://science.sciencemag.org/content/366/6463/eaaz0388)
+	- [link to comment 4](https://science.sciencemag.org/content/366/6463/eaay8334)
+	- [link to response to comments](https://science.sciencemag.org/content/366/6463/eaay8108)
+	- [link to Colin Prentice's commentary](https://prenticeclimategroup.wordpress.com/2019/10/18/alternative-facts-and-carbon-cycle-by-colin-prentice/)
 - Risa snacks
 
 ### November 1
