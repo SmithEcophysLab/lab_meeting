@@ -83,6 +83,10 @@ canopy environment and leaf age in lowland moist tropical forests. New Phytologi
 [link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16029?campaign=woletoc).
 
 ### Plant-mycorrhizae associations
+Teste, FP, Jones MD, Dickie IA. 2019. Dual mycorrhizal plants: their ecology and relevance. New Phytologist
+(early view, will update volume and issue when it comes available) 
+[link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16190)
+
 Montesinos-Navarro A, Valiente-Banuet A, Verdú M. 2019. Plant facilitation through 
 mycorrhizal symbiosis is stronger between distantly related plant species. New Phytologist 224: 928–935.
 [link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16051).
