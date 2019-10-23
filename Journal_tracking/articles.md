@@ -34,7 +34,7 @@ Southern Great Plains. Agricultural and Forest Meteorology 279: 107714.
 ### Stomatal conductance
 Lu Y, Duursma RA, Farrior CE, Medlyn BE, Feng X. 2019. 
 Optimal stomatal drought response shaped by competition for water and hydraulic risk 
-can explain plant trait covariation. New Phytologist 0.
+can explain plant trait covariation. New Phytologist.
 [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16207).
 
 
@@ -56,7 +56,7 @@ American Journal of Botany 106: 1190–1201.
 
 ### Modeled burn extent
 Slingsby JA, Moncrieff GR, Rogers AJ, February EC. 2019. 
-Altered ignition catchments threaten a hyper-diverse fire-dependent ecosystem. Global Change Biology 0.
+Altered ignition catchments threaten a hyper-diverse fire-dependent ecosystem. Global Change Biology.
 [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14861?campaign=wolacceptedarticle).
 
 
@@ -65,12 +65,12 @@ Altered ignition catchments threaten a hyper-diverse fire-dependent ecosystem. G
 ### Respiration
 Collalti A, Tjoelker MG, Hoch G, Mäkelä A, Guidolotti G, Heskel M, Petit G, Ryan MG, 
 Battipaglia G, Matteucci G, et al. 2019. Plant respiration: Controlled by photosynthesis or biomass? 
-Global Change Biology 0.
+Global Change Biology.
 [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14857?campaign=wolacceptedarticle).
 
 ### Stomatal conductance
 Devireddy AR, Arbogast J, Mittler R. 2019. 
-Coordinated and rapid whole-plant systemic stomatal responses. New Phytologist 0.
+Coordinated and rapid whole-plant systemic stomatal responses. New Phytologist.
 [link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16143?campaign=wolearlyview).
 
 
@@ -98,7 +98,7 @@ distribution varies with taxon phylogenetic resolution. New Phytologist 224: 936
 ### Photosynthesis
 De Souza AP, Wang Y, Orr DJ, Carmo-Silva E, Long SP. 2019. 
 Photosynthesis across African cassava germplasm is limited by Rubisco and mesophyll 
-conductance at steady state, but by stomatal conductance in fluctuating light. New Phytologist 0.
+conductance at steady state, but by stomatal conductance in fluctuating light. New Phytologist.
 [link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16142?campaign=wolearlyview).
 
 
@@ -107,7 +107,7 @@ conductance at steady state, but by stomatal conductance in fluctuating light. N
 ### Physiology
 Arsova B, Foster KJ, Shelden MC, Bramley H, Watt M. 2019. 
 Dynamics in plant roots and shoots minimize stress, save energy and maintain water 
-and nutrient uptake. New Phytologist 0.
+and nutrient uptake. New Phytologist.
 [link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15955).
 
 
@@ -116,13 +116,16 @@ and nutrient uptake. New Phytologist 0.
 ### Carbon cycling
 Sanders-DeMott R, Ouimette AP, Lepine LC, Fogarty SZ, Burakowski EA, Contosta AR, Ollinger S V. 2019. 
 Divergent carbon cycle response of forest and grass-dominated northern temperate ecosystems 
-to record winter warming. Global Change Biology 0.
+to record winter warming. Global Change Biology.
 [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14850?campaign=wolacceptedarticle).
+
+### Nitrogen cycling
+Genevieve L. Noyce, Matthew L. Kirwan, Roy L. Rich, and J. Patrick Megonigal. 2019. Asynchronous nitrogen supply and demand produce nonlinear plant allocation responses to warming and elevated CO2. Proceedings of the National Academy of Sciences 116 (43): 21623–21628. [link](https://doi.org/10.1073/pnas.1904990116) 
 
 ### Mesophyll conductance
 Li Y, Song X, Li S, Salter WT, Barbour MM. 2019. 
 The role of leaf water potential in the temperature response of mesophyll conductance. 
-New Phytologist 0.
+New Phytologist.
 [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16214?campaign=wolacceptedarticle).
 
 ### Photosynthesis
