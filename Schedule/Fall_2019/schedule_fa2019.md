@@ -49,6 +49,7 @@ CANCELLED
 - Bryn snacks
 
 ### October 25
+- Seminar speakers for this Spring?
 - Discussion of Bastin article on tree planting
 	- [link to Bastin et al](https://science.sciencemag.org/content/365/6448/76)
 	- [link to comment 1](https://science.sciencemag.org/content/366/6463/eaay8060)
