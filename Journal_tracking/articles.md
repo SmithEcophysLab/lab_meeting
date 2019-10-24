@@ -105,6 +105,11 @@ Photosynthesis across African cassava germplasm is limited by Rubisco and mesoph
 conductance at steady state, but by stomatal conductance in fluctuating light. New Phytologist.
 [link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16142?campaign=wolearlyview).
 
+### Plant-mycorrhizae associations
+Thirkell TJ, Pastok D, Field KJ. 2019. Carbon for nutrient exchange between arbuscular
+mycorrhizal fungi and wheat varies according to cultivat and changes in  atmospheric carbon 
+dioxide concentration. New Phytologist (early view, will update volume and issue when available)
+[link](https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.14851)
 
 ## Salinity
 
