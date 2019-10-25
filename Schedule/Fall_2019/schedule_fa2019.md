@@ -65,7 +65,7 @@ CANCELLED
 - Risa snacks
 
 ### November 1
-- theory paper week 1
+- Morgan paper and presentation
 - Morgan snacks
 
 ### November 8
