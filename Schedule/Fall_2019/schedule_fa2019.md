@@ -58,6 +58,7 @@ CANCELLED
 	- [link to comment 4](https://science.sciencemag.org/content/366/6463/eaay8334)
 	- [link to response to comments](https://science.sciencemag.org/content/366/6463/eaay8108)
 	- [link to Colin Prentice's commentary](https://prenticeclimategroup.wordpress.com/2019/10/18/alternative-facts-and-carbon-cycle-by-colin-prentice/)
+	- [more on the Crowther lab](https://www.sciencemag.org/news/2019/10/catchy-findings-have-propelled-young-ecologist-fame-and-enraged-his-critics)
 - Risa snacks
 
 ### November 1
