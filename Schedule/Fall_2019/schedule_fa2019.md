@@ -50,6 +50,9 @@ CANCELLED
 
 ### October 25
 - Seminar speakers for this Spring?
+- NRM rangeland ecologist position interviews happening
+	- Heath Starns (TAMU) - 1:30 Monday F&W 101
+	- Caitlyn Cooper (TAMU) - TBD Wednesday?
 - Discussion of Bastin article on tree planting
 	- [link to Bastin et al](https://science.sciencemag.org/content/365/6448/76)
 	- [link to comment 1](https://science.sciencemag.org/content/366/6463/eaay8060)
