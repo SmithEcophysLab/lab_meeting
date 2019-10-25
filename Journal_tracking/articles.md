@@ -37,6 +37,19 @@ Optimal stomatal drought response shaped by competition for water and hydraulic 
 can explain plant trait covariation. New Phytologist.
 [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16207).
 
+## Earth System Models
+
+### Community Land Model, Version 5
+Fisher, R.A., Wieder, W.R., Sanderson, B.M., Koven, C.D., Oleson, K.W., Xu, C., Fisher, J.B., Shi, M., Walker, A.P. and Lawrence, D.M., 2019. Parametric controls on vegetation responses to biogeochemical forcing in the CLM5. Journal of Advances in Modeling Earth Systems. [link](https://doi.org/10.1029/2019MS001609)
+
+Kennedy, D., Swenson, S., Oleson, K.W., Lawrence, D.M., Fisher, R., Lola da Costa, A.C. and Gentine, P., 2019. Implementing plant hydraulics in the community land model, version 5. Journal of Advances in Modeling Earth Systems, 11(2), pp.485-513. [link](https://doi.org/10.1029/2018MS001500)
+
+Lawrence, D.M., Fisher, R.A., Koven, C.D., Oleson, K.W., Swenson, S.C., Bonan, G., Collier, N., Ghimire, B., van Kampenhout, L., Kennedy, D. and Kluzek, E., 2019. The Community Land Model version 5: Description of new features, benchmarking, and impact of forcing uncertainty. Journal of Advances in Modeling Earth Systems. [link](https://doi.org/10.1029/2018MS001583)
+
+### Model Sensitivity
+Bonan, G.B., Lombardozzi, D.L., Wieder, W.R., Oleson, K.W., Lawrence, D.M., Hoffman, F.M. and Collier, N., 2018. Model Structure and Climate Data Uncertainty in Historical Simulations of the Terrestrial Carbon Cycle (1850–2014). Global Biogeochemical Cycles. [link](https://doi.org/10.1029/2019GB006175)
+
+Wieder, W.R., Lawrence, D.M., Fisher, R.A., Bonan, G.B., Cheng, S.J., Goodale, C.L., Grandy, A.S., Koven, C.D., Lombardozzi, D.L., Oleson, K.W. and Thomas, R.Q., 2019. Beyond static benchmarking: Using experimental manipulations to evaluate land model assumptions. Global Biogeochemical Cycles. [link](https://doi.org/10.1029/2018GB006141)
 
 ## Fire - general
 
@@ -153,4 +166,3 @@ Karimzadeh Soureshjani H, Ghorbani Dehkordi A, Bahador M. 2019.
 Temperature effect on yield of winter and spring irrigated crops. 
 Agricultural and Forest Meteorology 279: 107664.
 [link](https://www.sciencedirect.com/science/article/pii/S0168192319302722?via%3Dihub).
-
