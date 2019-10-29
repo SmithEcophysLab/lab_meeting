@@ -58,6 +58,8 @@ Pausas JG, Keeley JE. 2019. Wildfires as an ecosystem service.
 Frontiers in Ecology and the Environment 17: 289–295.
 [link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2044).
 
+Potter, S, Solvik K, Erb A, Goetz SJ, Johnstone JF, Mack MC, Randerson JT, Román MO, Schaaf CL et al. 2019. Climate change decreases the cooling effect from post-fire albedo in boreal North America. Global Change Biology (accepted article, not published yet)
+
 ### Germination
 Ramos DM, Valls JFM, Borghetti F, Ooi MKJ. 2019. 
 Fire cues trigger germination and stimulate seedling growth of grass species from Brazilian savannas. 
