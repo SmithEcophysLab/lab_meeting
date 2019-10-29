@@ -58,7 +58,9 @@ Pausas JG, Keeley JE. 2019. Wildfires as an ecosystem service.
 Frontiers in Ecology and the Environment 17: 289–295.
 [link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2044).
 
-Potter, S, Solvik K, Erb A, Goetz SJ, Johnstone JF, Mack MC, Randerson JT, Román MO, Schaaf CL et al. 2019. Climate change decreases the cooling effect from post-fire albedo in boreal North America. Global Change Biology (accepted article, not published yet)
+Potter S, Solvik K, Erb A, Goetz SJ, Johnstone JF, Mack MC, Randerson JT, Román MO, Schaaf CL et al. 2019. Climate change decreases the cooling effect from post-fire albedo in boreal North America. Global Change Biology (accepted article, not published yet) [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14888)
+
+Yang S, Zheng Q, Yang Y, Yuan M, Ma X, Chiariello NR, Docherty KM, Field CB, Gutknecht JLM, Hungate BA, et al. 2019. Fire affects the taxonomic and functional composition of soil microbial communities, with cascading effects on grassland ecosystem functioning. Global Change Biology (early view) [link](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14852?campaign=wolearlyview)
 
 ### Germination
 Ramos DM, Valls JFM, Borghetti F, Ooi MKJ. 2019. 
@@ -87,7 +89,6 @@ Global Change Biology.
 Devireddy AR, Arbogast J, Mittler R. 2019. 
 Coordinated and rapid whole-plant systemic stomatal responses. New Phytologist.
 [link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16143?campaign=wolearlyview).
-
 
 ## Interspecific variability
 
