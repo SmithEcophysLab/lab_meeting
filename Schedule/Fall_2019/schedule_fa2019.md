@@ -69,7 +69,8 @@ CANCELLED
 - Morgan snacks
 
 ### November 8
-- theory paper week 2
+- read Wright et al. (2003)
+	- [link](http://bio.mq.edu.au/~iwright/pdfs/wrw03an.pdf)
 - Mitej snacks
 
 ### November 15
