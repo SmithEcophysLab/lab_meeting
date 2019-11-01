@@ -13,6 +13,7 @@ Themes are ordered alphabetically.
 Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
+Elsevier, "Where should I publish?" [link](https://www.elsevier.com/librarians/article-news/where-should-I-publish)
 
 ## Across site variability
 
