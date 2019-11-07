@@ -8,6 +8,12 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Halbritter AH, De Boeck HJ, Eycott AE, Reinsch S, Robinson DA, Vicca S, Berauer B, 
+Christiansen CT, Estiarte M, Grünzweig JM, et al. 2019. 
+The handbook for standardised field and laboratory measurements in terrestrial 
+climate-change experiments and observational studies (ClimEx). Methods in Ecology and Evolution.
+[link](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13331)
+
 Wright SJ. 2019. Plant responses to nutrient addition experiments conducted in tropical forests. 
 Ecological Monographs 0: e01382.
 [link](https://esajournals.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fecm.1382).
