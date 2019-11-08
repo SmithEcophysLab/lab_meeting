@@ -74,9 +74,9 @@ CANCELLED
 - Mitej snacks
 
 ### November 15
-- Xiulin writing?
+- Xiulin writing
 - Dylan snacks
 
 ### November 22
-- Evan writing
+- Abigail harvest
 - potluck snacks
