@@ -8,9 +8,18 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
-Caldararu S, Thum T, Yu L, Zaehle S. 2019. Whole-plant optimality predicts changes in leaf nitrogen under variable CO2 and nutrient availability. New Phytologist [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16327?campaign=wolacceptedarticle)
+Caruso CM, CM Mason, and JS Medeiros.
+The Evolution of Functional Traits in Plants: Is the Giant Still Sleeping?
+International Journal of Plant Sciences.
+[link](https://www.journals.uchicago.edu/doi/full/10.1086/707141).
 
-Averill, C., Bhatnagar, J.M., Dietze, M.C., Pearse, W.D. and Kivlin, S.N., 2019. Global imprint of mycorrhizal fungi on whole-plant nutrient economics. Proceedings of the National Academy of Sciences, p.201906655. [link](https://doi.org/10.1073/pnas.1906655116)
+Caldararu S, Thum T, Yu L, Zaehle S. 2019. Whole-plant optimality predicts changes in 
+leaf nitrogen under variable CO2 and nutrient availability. 
+New Phytologist [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16327?campaign=wolacceptedarticle)
+
+Averill, C., Bhatnagar, J.M., Dietze, M.C., Pearse, W.D. and Kivlin, S.N., 2019. 
+Global imprint of mycorrhizal fungi on whole-plant nutrient economics. 
+Proceedings of the National Academy of Sciences, p.201906655. [link](https://doi.org/10.1073/pnas.1906655116)
 
 Halbritter AH, De Boeck HJ, Eycott AE, Reinsch S, Robinson DA, Vicca S, Berauer B, 
 Christiansen CT, Estiarte M, Grünzweig JM, et al. 2019. 
