@@ -8,6 +8,11 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Aho, K. A., Weber, C. F., Christner, B. C., Vinatzer, B. A., Morris, 
+C. E., Joyce, R., Failor, K. C., Werth, J. T., Bayless‐Edwards, A. L. H., and Schmale, D. G. 2019. 
+Spatiotemporal patterns of microbial composition and diversity in precipitation. Ecological Monographs. e01394.
+[link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecm.1394?campaign=wolearlyview).
+
 Caruso CM, CM Mason, and JS Medeiros.
 The Evolution of Functional Traits in Plants: Is the Giant Still Sleeping?
 International Journal of Plant Sciences.
