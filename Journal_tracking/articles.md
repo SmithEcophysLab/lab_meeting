@@ -8,6 +8,12 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Ramirez-Valiente JA, López R, Hipp AL, Aranda I. 2019. Correlated evolution of morphology, gas exchange, growth rates and hydraulics as a response to precipitation and temperature regimes in oaks (Quercus). New Phytologist. [link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16320?campaign=wolearlyview)
+
+Grünfeld L, Wulf M, Rillig MC, Manntschke A, Veresoglou. 2019. Neighbors of arbuscular-mycorrhiza associating trees are colonized more extensively by arbuscular mycorrhizal fungi than their confspecifics in ectomycorrhiza dominated stands. New Phytologist. [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16377?campaign=wolacceptedarticle)
+
+Plett KL, Singan VR, Wang M, Ng V, Grigoriev IV, Martin F, Plett JM, Anderson IC. 2019. Inorganic nitrogen availability alters Eucalyptus grandis receptivity to the ectomycorrhizal fungus Pisolithus albus but not symbiotic nitrogen transfer. [link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16322?campaign=wolearlyview)
+
 Aho, K. A., Weber, C. F., Christner, B. C., Vinatzer, B. A., Morris, 
 C. E., Joyce, R., Failor, K. C., Werth, J. T., Bayless‐Edwards, A. L. H., and Schmale, D. G. 2019. 
 Spatiotemporal patterns of microbial composition and diversity in precipitation. Ecological Monographs. e01394.
