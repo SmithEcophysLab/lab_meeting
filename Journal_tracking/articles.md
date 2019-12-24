@@ -8,6 +8,8 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Meier IC, Tückmantel T, Heitkötter J, Müller K, Preusser S, Wrobel TJ, Kandeler E, Marschner B, Leuschner C. 2019. Root exudation of mature beech forests across a nutrient availability gradient: the role of root morphology and fungal activity. New Phytologist [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16389?campaign=wolacceptedarticle)
+
 Ramirez-Valiente JA, López R, Hipp AL, Aranda I. 2019. Correlated evolution of morphology, gas exchange, growth rates and hydraulics as a response to precipitation and temperature regimes in oaks (Quercus). New Phytologist. [link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16320?campaign=wolearlyview)
 
 Grünfeld L, Wulf M, Rillig MC, Manntschke A, Veresoglou. 2019. Neighbors of arbuscular-mycorrhiza associating trees are colonized more extensively by arbuscular mycorrhizal fungi than their confspecifics in ectomycorrhiza dominated stands. New Phytologist. [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16377?campaign=wolacceptedarticle)
