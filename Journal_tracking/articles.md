@@ -8,6 +8,8 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Luo, Y, Schuur, EAG. 2020. Model parameterization to represent processes at unresolved scales and changing properties of evolving systems. Global Change Biology [link](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14939?campaign=wolearlyview)
+
 Meier IC, Tückmantel T, Heitkötter J, Müller K, Preusser S, Wrobel TJ, Kandeler E, Marschner B, Leuschner C. 2019. Root exudation of mature beech forests across a nutrient availability gradient: the role of root morphology and fungal activity. New Phytologist [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16389?campaign=wolacceptedarticle)
 
 Ramirez-Valiente JA, López R, Hipp AL, Aranda I. 2019. Correlated evolution of morphology, gas exchange, growth rates and hydraulics as a response to precipitation and temperature regimes in oaks (Quercus). New Phytologist. [link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16320?campaign=wolearlyview)
