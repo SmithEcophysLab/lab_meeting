@@ -8,6 +8,8 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Tian X, Minunno F, Cao T, Peltoniemi M, Kalliokoski T, Mäkelä A. 2020. Extending the range of applicability of the semi-empirical ecosystem flux model PRELES for varying forest types and climate. Global Change Biology [link](https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.14992)
+
 Davison J, García de León D, Zobel M, Moora M, Bueno CG, et al. 2020. Plant functional groups associate with distinct arbuscular mycorrhizal fungal communities. New Phytologist [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16423?campaign=wolacceptedarticle)
 
 Luo Y, Schuur EAG. 2020. Model parameterization to represent processes at unresolved scales and changing properties of evolving systems. Global Change Biology [link](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14939?campaign=wolearlyview)
