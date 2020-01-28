@@ -120,4 +120,9 @@ to the issue can be made directly.
 ## How do I make commits to the repository
 [NEED TO ADD]
 
+## an alternative resource
+Check out the [schwilk lab](https://github.com/schwilklab) page for more detailed Git and
+GitHub resources. The file to look at is 
+[data-code/git-and-github.md](https://github.com/schwilklab/lab-resources/blob/master/data-code/git-and-github.md).
+
 
