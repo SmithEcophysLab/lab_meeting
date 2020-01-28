@@ -10,7 +10,8 @@
 	- Project Climate
 		- contacts: Ankush Saha (ankush.saha@ttu.edu; president), Jannich Fischer (jannich.fischer@ttu.edu; officer)
 	- ESA funding from NEON ($1500) >> ask Evan
-		- due in 2 days
+		- [link to funding application](https://www.neonscience.org/neon-esa-early-career-scholars-application)
+		- due in 2 days (Jan 30 at 11:59pm local time)
 3. Journal article sharing
 4. Git and GitHub
 
