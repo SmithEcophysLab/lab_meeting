@@ -17,6 +17,9 @@ MacTavish, R. and Anderson, J.T., 2020. Resource availability alters fitness tra
 
 Koontz, M.J., North, M.P., Werner, C.M., Fick, S.E. and Latimer, A.M., 2019. Local forest structure variability increases resilience to wildfire in dry western US coniferous forests. Ecology Letters. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13447)
 
+Loram-Lourenço, L., Farnese, F.S., Sousa, L.F.D., Alves, R.D.F.B., Andrade, M.C.P.D., Almeida, S.E.D.S., Moura, L.M.D.F., Costa, A.C., Silva, F.G., Galmés, J. and Cochard, H., 2019. A Structure Shaped by Fire, But Also Water: Ecological Consequences of The Variability in Bark Properties Across 31 Species from the Brazilian Cerrado. Frontiers in Plant Science, 10
+[link](https://www.frontiersin.org/articles/10.3389/fpls.2019.01718/full)
+
 Halbritter, A. H., De Boeck, H. J., Eycott, A. E., Reinsch, S., Robinson, D. A., Vicca, S., … Vandvik, V. 
 (2020). The handbook for standardized field and laboratory measurements in terrestrial climate 
 change experiments and observational studies (ClimEx). Methods in Ecology and Evolution, 
