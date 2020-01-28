@@ -8,7 +8,7 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
-
+Salmon Y, Lintunen A, Dayet A, Chan T, Dewar R, Vesala T, Hölttä T. 2020. Leaf carbon and water status control stomatal and non-stomatal limitations of photosynthesis in trees. New Phytologist. [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16436?campaign=wolacceptedarticle)
 
 Jardine, E.C., Thomas, G.H., Forrestel, E.J., Lehmann, C.E. and Osborne, C.P., 2020. The global distribution of grass functional traits within grassy biomes. Journal of Biogeography.[link](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13764)
 
