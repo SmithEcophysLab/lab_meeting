@@ -8,6 +8,15 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+
+
+Jardine, E.C., Thomas, G.H., Forrestel, E.J., Lehmann, C.E. and Osborne, C.P., 2020. The global distribution of grass functional traits within grassy biomes. Journal of Biogeography.[link](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13764)
+
+MacTavish, R. and Anderson, J.T., 2020. Resource availability alters fitness trade‐offs: implications for evolution in stressful environments. American Journal of Botany.
+[link](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1417?campaign=wolearlyview)
+
+Koontz, M.J., North, M.P., Werner, C.M., Fick, S.E. and Latimer, A.M., 2019. Local forest structure variability increases resilience to wildfire in dry western US coniferous forests. Ecology Letters. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13447)
+
 Halbritter, A. H., De Boeck, H. J., Eycott, A. E., Reinsch, S., Robinson, D. A., Vicca, S., … Vandvik, V. 
 (2020). The handbook for standardized field and laboratory measurements in terrestrial climate 
 change experiments and observational studies (ClimEx). Methods in Ecology and Evolution, 
