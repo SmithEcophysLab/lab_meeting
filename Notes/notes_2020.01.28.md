@@ -9,6 +9,8 @@
 	- Science by the Glass tonight
 	- Project Climate
 		- contacts: Ankush Saha (ankush.saha@ttu.edu; president), Jannich Fischer (jannich.fischer@ttu.edu; officer)
+	- ESA funding from NEON ($1500) >> ask Evan
+		- due in 2 days
 3. Journal article sharing
 4. Git and GitHub
 

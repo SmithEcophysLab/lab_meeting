@@ -6,13 +6,14 @@ interest to lab meetings.
 ### Nick
 - Ecological Monographs
 - Plant, Cell, & Environment
+- Ecology Letters
 
 ### Dylan
 - American Journal of Botany
 
 ### Evan
-- Global Change Biology
 - New Phytologist
+- Nature
 
 ### Risa
 - Agriculture and Forest Meterology
@@ -25,10 +26,14 @@ interest to lab meetings.
 - Ecology
 
 ### Abigail
-- Ecology Letters
-
-### Mitej
-- Nature
-
-### Bryn
 - Science
+
+### Kelly
+- Environmental Science and Technology
+
+### Natasja
+- Cell Biology and Biochemistry
+- Global Change Biology
+
+### Pawan
+- Cell microbiology
