@@ -10,6 +10,9 @@ Don't worry about citation formatting.
 ## List of articles
 Salmon Y, Lintunen A, Dayet A, Chan T, Dewar R, Vesala T, Hölttä T. 2020. Leaf carbon and water status control stomatal and non-stomatal limitations of photosynthesis in trees. New Phytologist. [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16436?campaign=wolacceptedarticle)
 
+Loram-Lourenço, L., Farnese, F.S., Sousa, L.F.D., Alves, R.D.F.B., Andrade, M.C.P.D., Almeida, S.E.D.S., Moura, L.M.D.F., Costa, A.C., Silva, F.G., Galmés, J. and Cochard, H., 2019. A Structure Shaped by Fire, But Also Water: Ecological Consequences of The Variability in Bark Properties Across 31 Species from the Brazilian Cerrado. Frontiers in Plant Science, 10
+[link](https://www.frontiersin.org/articles/10.3389/fpls.2019.01718/full)
+
 Jardine, E.C., Thomas, G.H., Forrestel, E.J., Lehmann, C.E. and Osborne, C.P., 2020. The global distribution of grass functional traits within grassy biomes. Journal of Biogeography.[link](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13764)
 
 MacTavish, R. and Anderson, J.T., 2020. Resource availability alters fitness trade‐offs: implications for evolution in stressful environments. American Journal of Botany.
