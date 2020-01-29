@@ -1,7 +1,7 @@
 # Lab meeting notes for February 11 2020
 
 ## Objectives
-- 
+- Evan presents a paper
 
 ## Agenda
 1. News and announcements

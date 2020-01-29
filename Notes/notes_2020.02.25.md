@@ -1,7 +1,7 @@
 # Lab meeting notes for February 25 2020
 
 ## Objectives
-- 
+- Nick presents a paper
 
 ## Agenda
 1. News and announcements

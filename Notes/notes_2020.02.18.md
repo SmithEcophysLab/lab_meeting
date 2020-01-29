@@ -1,7 +1,7 @@
 # Lab meeting notes for February 18 2020
 
 ## Objectives
-- 
+- Morgan presents a paper
 
 ## Agenda
 1. News and announcements

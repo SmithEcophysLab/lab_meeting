@@ -1,7 +1,7 @@
 # Lab meeting notes for March 31 2020
 
 ## Objectives
-- 
+- Dylan presents a paper
 
 ## Agenda
 1. News and announcements

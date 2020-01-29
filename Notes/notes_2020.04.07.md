@@ -1,7 +1,7 @@
 # Lab meeting notes for April 7 2020
 
 ## Objectives
-- 
+- Risa presents a paper
 
 ## Agenda
 1. News and announcements
