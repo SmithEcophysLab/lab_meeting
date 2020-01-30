@@ -8,6 +8,8 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Zhang J, Nianpeng H, Liu C, Xu L, Chen Z, Li Y, Wang R, Yu G, Sun W, Xiao C, Chen HYH, Reich PB. 2020. Variation and evolution of C:N ratio among different organs enable plants to adapt to N-limited environments. Global Change Biology [link](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14973?campaign=wolearlyview)
+
 Salmon Y, Lintunen A, Dayet A, Chan T, Dewar R, Vesala T, Hölttä T. 2020. Leaf carbon and water status control stomatal and non-stomatal limitations of photosynthesis in trees. New Phytologist. [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16436?campaign=wolacceptedarticle)
 
 Jardine, E.C., Thomas, G.H., Forrestel, E.J., Lehmann, C.E. and Osborne, C.P., 2020. The global distribution of grass functional traits within grassy biomes. Journal of Biogeography.[link](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13764)
