@@ -5,6 +5,7 @@
 
 ## Agenda
 1. News and announcements
+	- Risa needs field help!
 	- ASPB summer undergraduate research fellowship
 		- [link](https://aspb-surf.secure-platform.com/a/)
 		- just undergraduates in years 1-3 (ideally sophomores)
