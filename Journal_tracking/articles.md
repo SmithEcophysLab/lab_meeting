@@ -8,22 +8,40 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Enquist BJ, Abraham AJ, Harfoot MBJ, Malhi Y, Doughty CE. 2020. 
+The megabiota are disproportionately important for biosphere functioning. 
+Nature Communications 11: 699.
+[link](https://www.nature.com/articles/s41467-020-14369-y)
 
-Zhang J, Nianpeng H, Liu C, Xu L, Chen Z, Li Y, Wang R, Yu G, Sun W, Xiao C, Chen HYH, Reich PB. 2020. Variation and evolution of C:N ratio among different organs enable plants to adapt to N-limited environments. Global Change Biology [link](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14973?campaign=wolearlyview)
+Zhang J, Nianpeng H, Liu C, Xu L, Chen Z, Li Y, Wang R, Yu G, Sun W, Xiao C, Chen HYH, Reich PB. 2020. 
+Variation and evolution of C:N ratio among different organs enable plants to adapt to N-limited environments. 
+Global Change Biology [link](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14973?campaign=wolearlyview)
 
-Laughlin, D.C., Delzon, S., Clearwater, M.J., Bellingham, P.J., McGlone, M.S. and Richardson, S.J., Climatic limits of temperate rainforest tree species are explained by xylem embolism resistance among angiosperms but not among conifers. New Phytologist.
+Laughlin, D.C., Delzon, S., Clearwater, M.J., Bellingham, P.J., McGlone, M.S. and Richardson, S.J., 
+Climatic limits of temperate rainforest tree species are explained by xylem embolism resistance 
+among angiosperms but not among conifers. New Phytologist.
 [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16448#.XjMlHVRKpaw.twitter)
 
-Salmon Y, Lintunen A, Dayet A, Chan T, Dewar R, Vesala T, Hölttä T. 2020. Leaf carbon and water status control stomatal and non-stomatal limitations of photosynthesis in trees. New Phytologist. [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16436?campaign=wolacceptedarticle)
+Salmon Y, Lintunen A, Dayet A, Chan T, Dewar R, Vesala T, Hölttä T. 2020. 
+Leaf carbon and water status control stomatal and non-stomatal limitations of photosynthesis in trees. 
+New Phytologist. [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16436?campaign=wolacceptedarticle)
 
-Jardine, E.C., Thomas, G.H., Forrestel, E.J., Lehmann, C.E. and Osborne, C.P., 2020. The global distribution of grass functional traits within grassy biomes. Journal of Biogeography.[link](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13764)
+Jardine, E.C., Thomas, G.H., Forrestel, E.J., Lehmann, C.E. and Osborne, C.P., 2020. 
+The global distribution of grass functional traits within grassy biomes. Journal of Biogeography.
+[link](https://onlinelibrary.wiley.com/doi/10.1111/jbi.13764)
 
-MacTavish, R. and Anderson, J.T., 2020. Resource availability alters fitness trade‐offs: implications for evolution in stressful environments. American Journal of Botany.
+MacTavish, R. and Anderson, J.T., 2020. Resource availability alters fitness trade‐offs: 
+implications for evolution in stressful environments. American Journal of Botany.
 [link](https://bsapubs.onlinelibrary.wiley.com/doi/full/10.1002/ajb2.1417?campaign=wolearlyview)
 
-Koontz, M.J., North, M.P., Werner, C.M., Fick, S.E. and Latimer, A.M., 2019. Local forest structure variability increases resilience to wildfire in dry western US coniferous forests. Ecology Letters. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13447)
+Koontz, M.J., North, M.P., Werner, C.M., Fick, S.E. and Latimer, A.M., 2019. 
+Local forest structure variability increases resilience to wildfire in dry western US coniferous forests. 
+Ecology Letters. [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13447)
 
-Loram-Lourenço, L., Farnese, F.S., Sousa, L.F.D., Alves, R.D.F.B., Andrade, M.C.P.D., Almeida, S.E.D.S., Moura, L.M.D.F., Costa, A.C., Silva, F.G., Galmés, J. and Cochard, H., 2019. A Structure Shaped by Fire, But Also Water: Ecological Consequences of The Variability in Bark Properties Across 31 Species from the Brazilian Cerrado. Frontiers in Plant Science, 10
+Loram-Lourenço, L., Farnese, F.S., Sousa, L.F.D., Alves, R.D.F.B., Andrade, 
+M.C.P.D., Almeida, S.E.D.S., Moura, L.M.D.F., Costa, A.C., Silva, F.G., Galmés, J. and Cochard, H., 2019. 
+A Structure Shaped by Fire, But Also Water: Ecological Consequences of The Variability 
+in Bark Properties Across 31 Species from the Brazilian Cerrado. Frontiers in Plant Science, 10
 [link](https://www.frontiersin.org/articles/10.3389/fpls.2019.01718/full)
 
 Halbritter, A. H., De Boeck, H. J., Eycott, A. E., Reinsch, S., Robinson, D. A., Vicca, S., … Vandvik, V. 
