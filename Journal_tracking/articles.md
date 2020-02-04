@@ -8,6 +8,8 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Birami B, Nägele T, Gattmann M, Preisler Y, Gast A, Arneth A, Reuhr NK. 2020. Hot drought reduces the effects of elevated CO2 on tree water use efficiency and carbon metabolism. New Phytologist [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16471?campaign=wolacceptedarticle)
+
 Enquist BJ, Abraham AJ, Harfoot MBJ, Malhi Y, Doughty CE. 2020. 
 The megabiota are disproportionately important for biosphere functioning. 
 Nature Communications 11: 699.
