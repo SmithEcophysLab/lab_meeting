@@ -8,13 +8,24 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
-Bennett A, Classen AT. 2020. Climate change influences mycorrhizal fungal–plant interactions, but conclusions are limited by geographical study bias. Ecology [link](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2978)
+Pauler CM, Isselstein J, Suter M, Berard J, Braunbeck T, Schneider MK (2020) 
+Choosy grazers: Influence of plant traits on forage selection by three cattle breeds. Functional Ecology
+[link](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.13542)
 
-Du, E, Terrer, C, Pellegrini, AFA et al. 2020. Global patterns of terrestrial nitrogen and phosphorus limitation. Nature Geosciences [link](https://doi.org/10.1038/s41561-019-0530-4)
+Bennett A, Classen AT. 2020. Climate change influences mycorrhizal fungal–plant interactions, 
+but conclusions are limited by geographical study bias. Ecology 
+[link](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2978)
 
-Wagenius, S., Beck, J. and Kiefer, G., 2020. Fire synchronizes flowering and boosts reproduction in a widespread but declining prairie species. Proceedings of the National Academy of Sciences. [link](https://www.pnas.org/content/117/6/3000.abstract?etoc)
+Du, E, Terrer, C, Pellegrini, AFA et al. 2020. Global patterns of terrestrial nitrogen and phosphorus limitation. 
+Nature Geosciences [link](https://doi.org/10.1038/s41561-019-0530-4)
 
-Birami B, Nägele T, Gattmann M, Preisler Y, Gast A, Arneth A, Reuhr NK. 2020. Hot drought reduces the effects of elevated CO2 on tree water use efficiency and carbon metabolism. New Phytologist [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16471?campaign=wolacceptedarticle)
+Wagenius, S., Beck, J. and Kiefer, G., 2020. Fire synchronizes flowering and boosts 
+reproduction in a widespread but declining prairie species. Proceedings of the National Academy of Sciences. 
+[link](https://www.pnas.org/content/117/6/3000.abstract?etoc)
+
+Birami B, Nägele T, Gattmann M, Preisler Y, Gast A, Arneth A, Reuhr NK. 2020. 
+Hot drought reduces the effects of elevated CO2 on tree water use efficiency and carbon metabolism. 
+New Phytologist [link](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.16471?campaign=wolacceptedarticle)
 
 Enquist BJ, Abraham AJ, Harfoot MBJ, Malhi Y, Doughty CE. 2020. 
 The megabiota are disproportionately important for biosphere functioning. 
