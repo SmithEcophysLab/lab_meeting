@@ -23,6 +23,7 @@
 2. Journal article sharing
 
 ## Pre-meeting notes
-
+    - Morgan paper
+        - [Pausas et al. 2017](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.12691)
 
 ## Post-meeting notes
