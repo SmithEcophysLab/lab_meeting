@@ -243,3 +243,6 @@ Karimzadeh Soureshjani H, Ghorbani Dehkordi A, Bahador M. 2019.
 Temperature effect on yield of winter and spring irrigated crops. 
 Agricultural and Forest Meteorology 279: 107664.
 [link](https://www.sciencedirect.com/science/article/pii/S0168192319302722?via%3Dihub).
+
+Ian J. Wright, Julia Cooke, Ceranusak L.A., Hutley L. B.,Scalon M.C., Tozer W.C. and Lehmann C.E.R. 2019. Stem diameter growth rates in a fire-prone savanna correlate with photosynthetic rate and branch-scale biomass allocation, but not specific leaf area. Austral Ecology 44: 339-350. [link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/aec.12678)
+
