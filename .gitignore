@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 # os stuff
 *.DS_Store
+=======
+# ignore dolphin directory files
+>>>>>>> f6611bbf6cef93876710dcf7835a72f132205d27
 .directory
