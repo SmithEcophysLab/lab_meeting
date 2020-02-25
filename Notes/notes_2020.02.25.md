@@ -5,7 +5,7 @@
 
 ## Agenda
 1. News and announcements
-	- Nick: missed announcement from last week?
+	- Nick: missed announcements from last week?
 2. Journal article sharing
 
 ## Pre-meeting notes
