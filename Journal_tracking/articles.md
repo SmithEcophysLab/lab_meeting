@@ -9,7 +9,7 @@ Don't worry about citation formatting.
 
 ## List of articles
 Sanderson BM, Fisher RA (2020) A fiery wake-up call for climate science. Nature Climate Change.
-[link to Nature article](https://www.nature.com/articles/s41558-020-0707-2#citeas).
+[link to Nature article](https://www.nature.com/articles/s41558-020-0707-2).
 [link to OA readcube version](https://www.nature.com/articles/s41558-020-0707-2.epdf?author_access_token=miuf03ZhfmQkEkuaQPveBtRgN0jAjWel9jnR3ZoTv0NOiyseDZ2UwWczen0HNKYmdMVFt0VzafF5f7Wmm94CYYSO3G_0XwNEok7kMK3g6CR0a9c3O6I0PR6MXE5_e3C28xVJw4yhPOQHK0AR-dhhGw%3D%3D)
 
 Pauler CM, Isselstein J, Suter M, Berard J, Braunbeck T, Schneider MK (2020) 
