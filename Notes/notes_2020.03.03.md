@@ -5,8 +5,8 @@
 
 ## Agenda
 1. News and announcements
-   a. plans for next week's meeting
-2. Journal article sharing
+2. Make plans for next week's meeting
+3. Journal article sharing
 
 ## Pre-meeting notes
 
