@@ -39,6 +39,8 @@ At the beginning of each meeting we will discuss:
 - *Kelly snacks*
 
 ### March 10
+- Grad student progress reports
+- Risa snacks
 - *Dylan, Natasja, and Nick leave early*
 
 ### March 17
