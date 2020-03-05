@@ -8,7 +8,13 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
-Wang H, Atkin OK, Keenan TF, Smith NG, Wright IJ, Bloomfield KJ, Kattge J, Reich PB, Prentice IC. 2020. Acclimation of leaf respiration consistent with optimal photosynthetic capacity. Global Change Biology [link](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14980?campaign=wolearlyview)
+Rashid, FAA, Crisp, PA, Zhang, Y, et al. Molecular and physiological responses during 
+thermal acclimation of leaf photosynthesis and respiration in rice. Plant Cell Environ. 2020; 43: 594– 610.
+[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/pce.13706?campaign=woletoc).
+
+Wang H, Atkin OK, Keenan TF, Smith NG, Wright IJ, Bloomfield KJ, Kattge J, Reich PB, Prentice IC. 2020. 
+Acclimation of leaf respiration consistent with optimal photosynthetic capacity. 
+Global Change Biology [link](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14980?campaign=wolearlyview)
 
 Sanderson BM, Fisher RA (2020) A fiery wake-up call for climate science. Nature Climate Change.
 [link to Nature article](https://www.nature.com/articles/s41558-020-0707-2).
