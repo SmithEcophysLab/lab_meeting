@@ -8,7 +8,16 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
-Zhao, F., Feng, X., Guo, Y., Ren, C., Wang, J. and Doughty, R., 2020. Elevation gradients affect the differences of arbuscular mycorrhizal fungi diversity between root and rhizosphere soil. Agricultural and Forest Meteorology, 284, p.107894. [link](https://www.sciencedirect.com/science/article/pii/S0168192319305106?dgcid=raven_sd_via_email)
+Pellegrini AFA, Hobbie SE, Reich PB et al. (2020) 
+Repeated fire shifts carbon and nitrogen cycling by changing plant inputs and soil 
+decomposition across ecosystems. Ecological Monographs, e01409.
+[link](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecm.1409?campaign=wolacceptedarticle)
+
+Zhao, F., Feng, X., Guo, Y., Ren, C., Wang, J. and Doughty, R., 2020. 
+Elevation gradients affect the differences of arbuscular mycorrhizal fungi 
+diversity between root and rhizosphere soil. 
+Agricultural and Forest Meteorology, 284, p.107894. 
+[link](https://www.sciencedirect.com/science/article/pii/S0168192319305106?dgcid=raven_sd_via_email)
 
 Rashid, FAA, Crisp, PA, Zhang, Y, et al. Molecular and physiological responses during 
 thermal acclimation of leaf photosynthesis and respiration in rice. Plant Cell Environ. 2020; 43: 594– 610.
