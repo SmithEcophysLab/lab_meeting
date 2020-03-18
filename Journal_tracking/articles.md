@@ -8,6 +8,18 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Kannenberg, S.A., Schwalm, C.R. and Anderegg, W.R.L. (2020), 
+Ghosts of the past: how drought legacy effects shape forest functioning and carbon cycling. 
+Ecol Lett. doi:10.1111/ele.13485
+[link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13485)
+
+Olson, M., Rosell, J.A., Martínez‐Pérez, C., León‐Gómez, C., Fajardo, A., Isnard, S., 
+Cervantes‐Alcayde, M.A., Echeverría, A., Figueroa‐Abundiz, V.A., Segovia‐Rivas, A., 
+Trueba, S. and Vázquez‐Segovia, K. (2020), 
+Xylem vessel diameter‐shoot length scaling: ecological significance of porosity types 
+and other traits. Ecol Monogr. Accepted Author Manuscript. doi:10.1002/ecm.1410
+[link](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecm.1410)
+
 Pellegrini AFA, Hobbie SE, Reich PB et al. (2020) 
 Repeated fire shifts carbon and nitrogen cycling by changing plant inputs and soil 
 decomposition across ecosystems. Ecological Monographs, e01409.
