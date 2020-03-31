@@ -56,20 +56,16 @@ At the beginning of each meeting we will discuss:
 
 ### April 7
 - Risa paper
-- *Risa snacks*
 
 ### April 14
-- *Dylan, Natasja, and Nick leave early*
+- Dylan paper
 
 ### April 21
-- TTABS practice day
-- *Jorge snacks*
+- Evan research paper
 
 ### April 28
 - Xiulin research
-- *Xiulin snacks*
 
 ### May 5
 - Natasja paper
-- *Natasja snacks*
 
