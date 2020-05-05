@@ -8,6 +8,10 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Pellegrini AFA, Hobbie SE, Reich PB et al. (2020) 
+Repeated fire shifts carbon and nitrogen cycling by changing plant inputs and soil 
+decomposition across ecosystems. Ecological Monographs, n/a, e01409.
+
 Kannenberg, S.A., Schwalm, C.R. and Anderegg, W.R.L. (2020), 
 Ghosts of the past: how drought legacy effects shape forest functioning and carbon cycling. 
 Ecol Lett. doi:10.1111/ele.13485
