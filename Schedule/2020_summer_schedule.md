@@ -9,6 +9,24 @@ At the beginning of each meeting we will discuss:
 - research help needed
 - upcoming events/conferences
 
+Participants:
+- Nick Smith
+- Risa McNellis
+- Evan Perkowski
+- Abigail Bell
+- Jose Villeda
+- Dylan Schwilk
+- Morgan Long
+- Xiulin Gao
+- Benjamin Harrison
+- Muhammad Usman
+- Bradleigh Petty
+- Natasja Van Gestel
+- Kelly McMillen
+- Pawan Devkota
+- Taiwo Osoko
+- Rakesh Singh
+
 ### May 19
 - Lead: Risa 
 - Topic: feedback on a manuscript
@@ -22,7 +40,7 @@ At the beginning of each meeting we will discuss:
 - Topic: feedback on a manuscript
 
 ### June 9
-- Lead: Nick 
+- Lead: Nick et al.
 - Topic: discussion on publishing data
 
 ### June 16
