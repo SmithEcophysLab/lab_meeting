@@ -36,8 +36,8 @@ Participants:
 - Topic: feedback on a manuscript
 
 ### June 2
-- Lead: Abigail 
-- Topic: feedback on a manuscript
+- Lead: (placeholder; maybe Matt J invited discussion?)
+- Topic: 
 
 ### June 9
 - Lead: Nick et al.
@@ -52,12 +52,12 @@ Participants:
 - Topic: feedback on a manuscript?
 
 ### June 30
-- Lead: (placeholder; maybe Matt J invited discussion)
-- Topic: 
-
-### July 7
 - Lead: Dylan 
 - Topic: plain text presentations
+
+### July 7
+- Lead: Abigail 
+- Topic: feedback on a manuscript
 
 ### July 14
 - Lead: none
