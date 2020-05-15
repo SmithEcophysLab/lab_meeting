@@ -29,15 +29,15 @@ Participants:
 
 ### May 19
 - Lead: Risa 
-- Topic: feedback on a manuscript
+- Topic: thesis defense practice
 
 ### May 26
-- Lead: Evan 
-- Topic: feedback on a manuscript
-
-### June 2
 - Lead: (placeholder; maybe Matt J invited discussion?)
 - Topic: 
+
+### June 2
+- Lead: Evan 
+- Topic: feedback on a manuscript
 
 ### June 9
 - Lead: Nick et al.
