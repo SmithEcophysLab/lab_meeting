@@ -15,6 +15,9 @@ Participants:
 - Evan Perkowski
 - Abigail Bell
 - Jose Villeda
+- Mitej Dongarkar
+- Jorge Ochoa
+- Christine Vanginault
 - Dylan Schwilk
 - Morgan Long
 - Xiulin Gao
