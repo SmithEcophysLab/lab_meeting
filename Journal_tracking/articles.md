@@ -8,6 +8,14 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Young SNR, Sack L, Sporck-Koehler MJ, Lundgren MR (2020) 
+Why is C4 photosynthesis so rare in trees? Journal of Experimental Botany.
+[link](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/eraa234/5837361)
+
+Simpson KJ, Bennett C, Atkinson RRL et al. (2020) C4 photosynthesis and the economic 
+spectra of leaf and root traits independently influence growth rates in grasses. Journal of Ecology, n/a.
+[link](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13412)
+
 Pellegrini AFA, Hobbie SE, Reich PB et al. (2020) 
 Repeated fire shifts carbon and nitrogen cycling by changing plant inputs and soil 
 decomposition across ecosystems. Ecological Monographs, n/a, e01409.
