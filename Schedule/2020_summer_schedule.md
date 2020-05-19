@@ -39,8 +39,8 @@ Participants:
 - Topic: 
 
 ### June 2
-- Lead: Evan 
-- Topic: feedback on a manuscript
+- Lead: Lizz 
+- Topic: Catching up
 
 ### June 9
 - Lead: Nick et al.
