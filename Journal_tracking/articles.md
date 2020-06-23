@@ -8,6 +8,12 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Schielzeth, H., Dingemanse, N.J., Nakagawa, S., Westneat, D.F., Allegue, H., Teplitsky, C., 
+Réale, D., Dochtermann, N., Garamszegi, L.Z. and Araya‐Ajoy, Y.G. (2020), 
+Robustness of linear mixed‐effects models to violations of distributional assumptions. 
+Methods Ecol Evol. doi:10.1111/2041-210X.13434.
+[link](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13434).
+
 Young SNR, Sack L, Sporck-Koehler MJ, Lundgren MR (2020) 
 Why is C4 photosynthesis so rare in trees? Journal of Experimental Botany.
 [link](https://academic.oup.com/jxb/advance-article/doi/10.1093/jxb/eraa234/5837361)
