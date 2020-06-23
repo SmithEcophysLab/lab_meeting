@@ -14,3 +14,4 @@
 - move meetings to 3 PM?
 
 ## Post-meeting notes
+- 3 PM meetings seem okay -- Nick will send email
