@@ -1,5 +1,5 @@
 # Topic Schedule for Summer 2020 Lab Meetings
-## Lab meeting time is 3:30-4:30 PM on Tuesdays, unless otherwise noted
+## Lab meeting time is 3:00-4:00 PM on Tuesdays, unless otherwise noted
 Below is a topic schedule for every lab meeting this semester.
 
 At the beginning of each meeting we will discuss:
