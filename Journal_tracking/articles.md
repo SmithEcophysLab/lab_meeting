@@ -8,6 +8,17 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Resco de Dios V, Arteaga C, Peguero-Pina JJ et al. (2020) 
+Hydraulic and photosynthetic limitations prevail over root non-structural 
+carbohydrate reserves as drivers of resprouting in two Mediterranean oaks. 
+Plant, Cell & Environment.
+[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/pce.13781).
+
+Pastore MA, Lee TD, Hobbie SE, Reich PB (2020) Interactive effects of elevated CO2, 
+warming, reduced rainfall, and nitrogen on leaf gas exchange in five perennial grassland species. 
+Plant, Cell & Environment.
+[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/pce.13783).
+
 Schielzeth, H., Dingemanse, N.J., Nakagawa, S., Westneat, D.F., Allegue, H., Teplitsky, C., 
 Réale, D., Dochtermann, N., Garamszegi, L.Z. and Araya‐Ajoy, Y.G. (2020), 
 Robustness of linear mixed‐effects models to violations of distributional assumptions. 
