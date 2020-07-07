@@ -63,8 +63,8 @@ Participants:
 - Topic: feedback on a manuscript
 
 ### July 14
-- Lead: none
-- Topic: ASPB/ESA talks
+- Lead: Evan, Risa, Lizz, Abigail?, Xiulin?
+- Topic: ASPB/Botany/ESA talks
 
 ### July 21
 - Lead: none
