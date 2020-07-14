@@ -67,19 +67,17 @@ Participants:
 - Topic: ASPB/Botany/ESA talks
 
 ### July 21
-- Lead: none
-- Topic: ASPB/ESA talks
+- NO MEETING
 
 ### July 28
-- Lead: none
-- Topic: ASPB/ESA talks
+- NO MEETING
 
 ### August 4
 - No meeting (ESA) 
 
 ### August 11
-- Lead: TBD 
-- Topic: TBD
+- Lead: Nick 
+- Topic: lab meeting as course in Fall
 
 ### August 18
 - Lead: TBD 
