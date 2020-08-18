@@ -8,6 +8,10 @@ Please add a citation of your article along with a link to your article.
 Don't worry about citation formatting.
 
 ## List of articles
+Pausas JG, Bond WJ (2020) On the Three Major Recycling Pathways in Terrestrial Ecosystems. 
+Trends in Ecology & Evolution, 35, 767–775.
+[link](https://www.sciencedirect.com/science/article/pii/S016953472030094X).
+
 Resco de Dios V, Arteaga C, Peguero-Pina JJ et al. (2020) 
 Hydraulic and photosynthetic limitations prevail over root non-structural 
 carbohydrate reserves as drivers of resprouting in two Mediterranean oaks. 
