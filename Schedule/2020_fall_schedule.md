@@ -33,7 +33,7 @@ Natasja: Matrix modelling
 
 ### September 29
 
-Xiulin: discussion of paper(s). Probably on grassland ecology.
+Xiulin: field burning project data analysis method discussion
 
 ### October 6
 
