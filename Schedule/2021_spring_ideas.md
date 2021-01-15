@@ -1,10 +1,13 @@
-# 2021 Spring Lab Meeting Ideas
+# Spring 2021 Lab Meeting Ideas
 
 This document contains a list of ideas for topics for Spring 2021 lab meetings.
 
-- New student introductions
+- New student introductions and broad research interests
 - Group manuscript review for journal
-      - possibly a manuscript that one from the group is asked to review
-      - possibly choose a manuscript from a pre-print server to review with or without feedback to authors
+    - Manuscript that one from the group is asked to review or from a pre-print server
+    - With or without feedback to authors
 - General group research updates
-      
+- In-person "all hands on deck" move things to new lab space (once relevant)
+- Discussion on safe field work practices in rural areas
+- TTABSS practice presentations (are these happening?)
+- Evan can present (finally) on major findings from his 2019 field work. Manuscript is expected to be finished by end of the semester, can volunteer to present one of the last lab meetings for this
