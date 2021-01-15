@@ -1,6 +1,6 @@
 # 2021 Spring Lab Meeting Ideas
 
-This document contains a list of ideas for topics for the Fall 2020 semester lab meetings.
+This document contains a list of ideas for topics for Spring 2021 lab meetings.
 
 - New student introductions
 - Group manuscript review for journal
