@@ -11,3 +11,4 @@ This document contains a list of ideas for topics for Spring 2021 lab meetings.
 - Discussion on safe field work practices in rural areas
 - TTABSS practice presentations (are these happening?)
 - Evan can present (finally) on major findings from his 2019 field work. Manuscript is expected to be finished by end of the semester, can volunteer to present one of the last lab meetings for this
+- Semester theme (e.g., pick a book for group to read and discuss throughout semester, theme for paper discussions, etc.. I know in the past we discussed reading and discussing a few books by Hope Jahren)
