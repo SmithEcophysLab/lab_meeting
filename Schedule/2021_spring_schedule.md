@@ -27,8 +27,9 @@ General group research updates
 
 ### February 26
 
-Nick discussion lead on temperature tipping points:
-(https://advances.sciencemag.org/content/7/3/eaay1052.full)
+Nick discussion lead on temperature tipping points
+  - Duffy KA, CR Schwalm, VL Arcus, et al. 2021. How close are we to the temperature tipping point of the terrestrial biosphere? Science Advances 7(3): eaay1052
+  - [link to paper](https://advances.sciencemag.org/content/7/3/eaay1052.full)
 
 ### March 5
 
