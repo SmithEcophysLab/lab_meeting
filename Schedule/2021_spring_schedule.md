@@ -39,6 +39,11 @@ Sahar Graduate Research Poster Competition practice presentation
 
 Scaling theme
 
+Paper ideas:
+  1. Levin SA. 1992. The problem of pattern and scale in ecology. Ecology 73, 1943-1967. [link to paper](https://doi.org/10.2307/1941447)
+
+  2. Chesson P. 2012. Scale transition theory: Its aims, motivations and predictions. Ecological Complexity 10, 52-68. [link to paper](https://doi.org/10.1016/j.ecocom.2011.11.002)
+
 ### March 19
 
 Scaling theme (cont.)
