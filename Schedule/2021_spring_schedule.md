@@ -27,24 +27,24 @@ Levin SA. 1992. The problem of pattern and scale in ecology. Ecology 73, 1943-19
 
 ### February 26
 
+Sahar Graduate Research Poster Competition practice presentation
+
+### March 5
+
+No lab meeting
+
+### March 12
+
 Nick discussion lead on temperature tipping points
   - Duffy KA, CR Schwalm, VL Arcus, et al. 2021. How close are we to the temperature tipping point of the terrestrial biosphere? Science Advances 7(3): eaay1052
   - [link to paper](https://advances.sciencemag.org/content/7/3/eaay1052.full)
 
-### March 5
-
-Sahar Graduate Research Poster Competition practice presentation
-
-### March 12
+### March 19
 
 Scaling theme
 
 A few paper ideas:
   1. Chesson P. 2012. Scale transition theory: Its aims, motivations and predictions. Ecological Complexity 10, 52-68. [link to paper](https://doi.org/10.1016/j.ecocom.2011.11.002)
-
-### March 19
-
-Scaling theme (cont.)
 
 ### March 26
 
