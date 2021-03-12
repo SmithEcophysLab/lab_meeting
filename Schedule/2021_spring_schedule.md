@@ -41,14 +41,14 @@ Nick discussion lead on temperature tipping points
 
 ### March 19
 
+No lab meeting
+
+### March 26
+
 Scaling theme
 
 A few paper ideas:
   1. Chesson P. 2012. Scale transition theory: Its aims, motivations and predictions. Ecological Complexity 10, 52-68. [link to paper](https://doi.org/10.1016/j.ecocom.2011.11.002)
-
-### March 26
-
-Scaling theme (cont.)
 
 ### April 2
 
