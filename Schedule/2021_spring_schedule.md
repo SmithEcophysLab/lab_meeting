@@ -47,12 +47,13 @@ No lab meeting
 
 Scaling theme
 
-A few paper ideas:
-  1. Chesson P. 2012. Scale transition theory: Its aims, motivations and predictions. Ecological Complexity 10, 52-68. [link to paper](https://doi.org/10.1016/j.ecocom.2011.11.002)
+Chesson P. 2012. Scale transition theory: Its aims, motivations and predictions. Ecological Complexity 10, 52-68. [link to paper](https://doi.org/10.1016/j.ecocom.2011.11.002)
 
 ### April 2
 
 Scaling theme (cont.)
+
+Schwilk DW & AC Caprio. 2011. Scaling from leaftraits to fire behaviour: community composition predicts fire severity in a temperate forest. Journal of Ecology 99, 970-980.
 
 ### April 9
 
