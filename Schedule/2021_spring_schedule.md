@@ -53,11 +53,13 @@ Chesson P. 2012. Scale transition theory: Its aims, motivations and predictions.
 
 Scaling theme (cont.)
 
-Schwilk DW & AC Caprio. 2011. Scaling from leaftraits to fire behaviour: community composition predicts fire severity in a temperate forest. Journal of Ecology 99, 970-980.
+Terrer, C, RP Phillips, BA Hungate, et al. 2021. A trade-off between plant and soil carbon storage under elevated CO2. Nature 591, 599–603. [link to paper](https://www.nature.com/articles/s41586-021-03306-8)
 
 ### April 9
 
 Scaling theme (cont.)
+
+Schwilk DW & AC Caprio. 2011. Scaling from leaf traits to fire behaviour: community composition predicts fire severity in a temperate forest. Journal of Ecology 99, 970-980.
 
 ### April 16
 
