@@ -2,6 +2,13 @@
 
 This document contains a list of ideas for topics for Spring 2021 lab meetings.
 
+## New ideas (Nick; April 16, 2021)
+- Fieldwork safety
+    - departmental DEI committee is planning to hold a town hall on this towards the end of the semester and is asking that lab groups watch a few videos and discuss amongst their groups prior to the town hall
+- New *Science* paper on fire in boreal forests and carbon cycling
+    - https://science.sciencemag.org/content/372/6539/280.full
+
+## Original ideas
 - New student introductions and broad research interests
 - Group manuscript review for journal
     - Manuscript that one from the group is asked to review or from a pre-print server
