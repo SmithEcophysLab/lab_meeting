@@ -63,18 +63,22 @@ Schwilk DW & AC Caprio. 2011. Scaling from leaf traits to fire behaviour: commun
 
 ### April 16
 
-Scaling theme (cont.)
+Semester planning (20 minute meeting)
 
 ### April 23
 
-Scaling theme (cont.)
+Pawan lead on appropriate methods for warming experiments
+
+Aronson EL & SG McNulty. 2009. Appropriate experimental ecosystem warming methods by ecosystem, objective, and practicality. Agricultural and Forest Meteorology 149, 1791-1799. [link to paper](https://www.sciencedirect.com/science/article/pii/S0168192309001506?casa_token=IpDZrho9BXkAAAAA:HWugLnwyfuvCkXDvCrVzknaWxTx79z3Dt9LPzXaBWjLaYuiP1y5o7vsL1b882Fv1zslqYo1SVFO1)
 
 ### April 30
 
-Evan NxS presentation and manuscript feedback
+Discussion on safe field work practices in rural areas (resources from DEI committee to be sent out/added here)
 
 ### May 7
 
-Discussion on safe field work practices in rural areas
+Tentative Xiulin lead
+
+Mack MC, XJ Walker, JF Johnstone, HD Alexander, AM MElvin, M Jean, SN Miller. 2021. Carbon loss from boreal forest wildfires offset by increased dominance of deciduous trees. Science 372, 280-283 [link to paper](https://science.sciencemag.org/content/372/6539/280.full)
 
 ### Placeholder for any additional meetings
