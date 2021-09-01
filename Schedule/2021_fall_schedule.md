@@ -11,80 +11,80 @@ At the beginning of each meeting we will discuss:
 
 Tentative: Risa and/or Nick on NutNet-related things; Kate Fuller on current research
 
-***IMPORTANT***
+*IMPORTANT*
 Please avoid any tree nuts or sesame seeds in any snacks
 
 ### September 1
 
-Topic: Lab meeting scheduling, brief introductions
-Topic lead: Evan
-Snack: Evan
+- Topic: Lab meeting scheduling, brief introductions
+- Topic lead: Evan
+- Snack: Evan
 
 ### September 8
 
-Topic: Zinny introduction (possible paper lead?)
-Topic lead: Zinny
-Snack: Pawan
+- Topic: Zinny introduction (possible paper lead?)
+- Topic lead: Zinny
+- Snack: Pawan
 
 ### September 15
 
-Topic: New member introduction
-Topic lead: Jeff
-Snack: Abbey
+- Topic: New member introduction
+- Topic lead: Jeff
+- Snack: Abbey
 
 ### September 22
 
-Topic:
-Topic lead: Dylan?
-Snack:
+- Topic: TBD
+- Topic lead: Dylan?
+- Snack:
 
 ### September 29
 
-Topic:
-Topic lead: Nick?
-Snack:
+- Topic:
+- Topic lead: Nick?
+- Snack:
 
 ### October 6
 
-Topic: TBD
-Topic lead: Natasja
-Snack: Natasja
+- Topic: TBD
+- Topic lead: Natasja
+- Snack: Natasja
 
 ### October 13
 
-Topic: Evan (TBD)
-Topic lead: Evan
-Snack: Evan
+- Topic: Evan (TBD)
+- Topic lead: Evan
+- Snack: Evan
 
 ### October 20
 
-Topic: Drought x Heat experiment (C4 grasses)
-Topic lead: Jeff
-Snack: Jeff
+- Topic: Drought x Heat experiment (C4 grasses)
+- Topic lead: Jeff
+- Snack: Jeff
 
 ### October 27
 
-Topic: Paper lead (?)
-Topic lead: Peter
-Snack: Peter (birthday)
+- Topic: Paper lead (?)
+- Topic lead: Peter
+- Snack: Peter (birthday)
 
 ### November 3
 
-Topic: Feedback on data analysis from recent field work
-Topic lead: Pawan
-Snack: Pawan
+- Topic: Feedback on data analysis from recent field work
+- Topic lead: Pawan
+- Snack: Pawan
 
 ### November 10
 
-Topic: Feedback on data analysis from recent field work
-Topic lead: Taiwo
-Snack: Taiwo
+- Topic: Feedback on data analysis from recent field work
+- Topic lead: Taiwo
+- Snack: Taiwo
 
 ### November 17
 
-Topic: Feedback on data analysis from recent field work
-Topic lead: Rakesh
-Snack: Rakesh
+- Topic: Feedback on data analysis from recent field work
+- Topic lead: Rakesh
+- Snack: Rakesh
 
 ### November 24
 No lab meeting (Thanksgiving holiday)
