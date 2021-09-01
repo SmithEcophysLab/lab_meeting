@@ -11,27 +11,75 @@ At the beginning of each meeting we will discuss:
 
 ### September 1
 
+Topic:
+Topic lead:
+Snack:
+
 ### September 8
+
+Topic:
+Topic lead:
+Snack:
 
 ### September 15
 
+Topic:
+Topic lead:
+Snack:  
+
 ### September 22
+
+Topic:
+Topic lead:
+Snack:
 
 ### September 29
 
+Topic:
+Topic lead:
+Snack:
+
 ### October 6
+
+Topic:
+Topic lead:
+Snack:
 
 ### October 13
 
+Topic:
+Topic lead:
+Snack:
+
 ### October 20
+
+Topic:
+Topic lead:
+Snack:
 
 ### October 27
 
+Topic:
+Topic lead:
+Snack:  
+
 ### November 3
+
+Topic:
+Topic lead:
+Snack:
 
 ### November 10
 
+Topic:
+Topic lead:
+Snack:
+
 ### November 17
+
+Topic:
+Topic lead:
+Snack: 
 
 ### November 24
 No lab meeting (Thanksgiving holiday)
