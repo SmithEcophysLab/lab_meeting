@@ -9,77 +9,79 @@ At the beginning of each meeting we will discuss:
 - research help needed
 - upcoming events/conferences
 
+Tentative: Risa and/or Nick for NutNet; Kate Fuller on research
+
 ### September 1
 
-Topic:
+Topic: 
 Topic lead:
 Snack:
 
 ### September 8
 
-Topic:
-Topic lead:
-Snack:
+Topic: Zinny introduction (possible paper lead?)
+Topic lead: Zinny
+Snack:Pawan
 
 ### September 15
 
-Topic:
-Topic lead:
-Snack:  
+Topic: New member introduction
+Topic lead: Jeff
+Snack: Abbey 
 
 ### September 22
 
-Topic:
-Topic lead:
+Topic: 
+Topic lead: Dylan
 Snack:
 
 ### September 29
 
 Topic:
-Topic lead:
+Topic lead: Nick
 Snack:
 
 ### October 6
 
-Topic:
-Topic lead:
-Snack:
+Topic: 
+Topic lead: Natasja (open)
+Snack: Natasja
 
 ### October 13
 
-Topic:
-Topic lead:
-Snack:
+Topic: Evan (open)
+Topic lead: Evan
+Snack: Evan
 
 ### October 20
 
-Topic:
-Topic lead:
-Snack:
+Topic: Drought x Heat experiment (C4)
+Topic lead: Jeff
+Snack: Jeff
 
 ### October 27
 
-Topic:
-Topic lead:
-Snack:  
+Topic: Peter paper lead
+Topic lead: Peter
+Snack: Peter (birthday) 
 
 ### November 3
 
-Topic:
-Topic lead:
-Snack:
+Topic: Data analysis feedback
+Topic lead: Pawan
+Snack: Pawan
 
 ### November 10
 
-Topic:
-Topic lead:
-Snack:
+Topic: Data analysis feedback
+Topic lead: Taiwo
+Snack: Taiwo
 
 ### November 17
 
-Topic:
-Topic lead:
-Snack: 
+Topic: Rakesh (data analysis?)
+Topic lead: Rakesh
+Snack: Rakesh
 
 ### November 24
 No lab meeting (Thanksgiving holiday)
