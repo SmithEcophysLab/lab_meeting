@@ -36,13 +36,13 @@ Please avoid any tree nuts or sesame seeds in any snacks
 
 - Topic: TBD
 - Topic lead: Dylan?
-- Snack:
+- Snack: TBD
 
 ### September 29
 
-- Topic:
+- Topic: TBD
 - Topic lead: Nick?
-- Snack:
+- Snack: TBD
 
 ### October 6
 
