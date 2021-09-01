@@ -11,6 +11,9 @@ At the beginning of each meeting we will discuss:
 
 Tentative: Risa and/or Nick on NutNet-related things; Kate Fuller on current research
 
+***IMPORTANT***
+Please avoid any tree nuts or sesame seeds in any snacks
+
 ### September 1
 
 Topic: Lab meeting scheduling, brief introductions
