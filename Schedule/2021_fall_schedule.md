@@ -34,19 +34,19 @@ Please avoid any tree nuts or sesame seeds in any snacks
 
 ### September 22
 
-- Topic: TBD
+- Topic: lab clean-up date
 - Topic lead: Dylan?
 - Snack: TBD
 
 ### September 29
 
-- Topic: TBD
+- Topic: lab cleanup date
 - Topic lead: Nick?
 - Snack: TBD
 
 ### October 6
 
-- Topic: TBD
+- Topic: TBD (lab cleanout?)
 - Topic lead: Natasja
 - Snack: Natasja
 
