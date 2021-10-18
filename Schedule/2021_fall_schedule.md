@@ -52,15 +52,15 @@ Please avoid any tree nuts or sesame seeds in any snacks
 
 ### October 13
 
-- Topic: Evan (TBD)
+- Topic: Ithaca NxS study feedback
 - Topic lead: Evan
 - Snack: Evan
 
 ### October 20
 
-- Topic: Drought x Heat experiment (C4 grasses)
-- Topic lead: Jeff
-- Snack: Jeff
+- Topic: Kate (TBD)
+- Topic lead: Kate
+- Snack: Jeff (?)
 
 ### October 27
 
