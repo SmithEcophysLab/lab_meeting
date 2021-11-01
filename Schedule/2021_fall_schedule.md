@@ -76,15 +76,21 @@ Please avoid any tree nuts or sesame seeds in any snacks
 
 ### November 10
 
-- Topic: Feedback on data analysis from recent field work
-- Topic lead: Taiwo
-- Snack: Taiwo
+- Topic: Ecohydraulic equilibrium theory
+- Topic lead: Kate
+- Snack: Rakesh
+
+Osem Y, O’Hara K. 2016. An ecohydrological approach to managing dryland forests: integration of leaf area metrics into assessment and management. Forestry 89: 338–349.
+
+URL: https://academic.oup.com/forestry/article/89/4/338/2389324
+DOI: 10.1093/forestry/cpw021
+
 
 ### November 17
 
 - Topic: Feedback on data analysis from recent field work
-- Topic lead: Rakesh
-- Snack: Rakesh
+- Topic lead: Taiwo
+- Snack: Taiwo
 
 ### November 24
 No lab meeting (Thanksgiving holiday)
