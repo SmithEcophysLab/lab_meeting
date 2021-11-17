@@ -96,4 +96,4 @@ DOI: 10.1093/forestry/cpw021
 No lab meeting (Thanksgiving holiday)
 
 ### December 1
-Start of finals week- can have final meeting of semester either this week or on November 17
+Start of finals week- decided on no lab meeting
