@@ -14,9 +14,8 @@ Please avoid any tree nuts or sesame seeds in any snacks
 
 ### January 21
 
-- Topic: Lab meeting scheduling, brief introductions to anyone new
-- Topic lead:
-- Snack:
+- Topic: Lab meeting scheduling, brief introductions to anyone new to the group, discussion about whether we want to keep these meetings remote
+- Topic lead: Group discussion
 
 ### January 28
 
@@ -60,17 +59,21 @@ Please avoid any tree nuts or sesame seeds in any snacks
 - Topic lead:
 - Snack:
 
-### March 18 (note: spring break)
+### March 18 (note: spring break March 12-20)
 
 - Topic:
 - Topic lead:
 - Snack:
+
+**Note**: Spring break is from March 12-20- might be worth skipping this week's meeting
 
 ### March 25
 
 - Topic:
 - Topic lead:
 - Snack:
+
+**Note**: unable to secure first floor conference room for this date. Meeting will need to be remote or in another room
 
 ### April 1
 
@@ -99,4 +102,4 @@ Please avoid any tree nuts or sesame seeds in any snacks
 - Topic lead:
 - Snack:
 
-*Note*: finals week begins May 5, this is likely final lab meeting for semester unless folks want to carry these meetings through summer
+**Note**: finals week begins May 5, this is likely final lab meeting for semester unless folks want to carry these meetings through summer
