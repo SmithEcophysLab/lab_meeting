@@ -19,44 +19,44 @@ Please avoid any tree nuts or sesame seeds in any snacks
 
 ### January 28
 
-- Topic:
-- Topic lead:
+- Topic: Natasja Grower Network chat
+- Topic lead: Natasja
 - Snack:
 
 ### February 4
 
-- Topic:
-- Topic lead:
+- Topic: Jeff NutNet protocol chat
+- Topic lead: Jeff
 - Snack:
 
 ### February 11
 
-- Topic:
-- Topic lead:
+- Topic: Alicia intro presentation
+- Topic lead: Alicia
 - Snack:
 
 ### Feburary 18
 
-- Topic:
-- Topic lead:
+- Topic: Taiwo thesis defense
+- Topic lead: Taiwo
 - Snack:
 
 ### February 25
 
-- Topic:
-- Topic lead:
+- Topic: Pawan thesis defense
+- Topic lead: Pawan
 - Snack:
 
 ### March 4
 
-- Topic:
-- Topic lead:
+- Topic: URC feedback for Joseph, Morgan, Heath posters
+- Topic lead: Joseph, Morgan, Heath
 - Snack:
 
 ### March 11
 
-- Topic:
-- Topic lead:
+- Topic: Rakesh thesis defense
+- Topic lead: Rakesh
 - Snack:
 
 ### March 18 (note: spring break March 12-20)
@@ -69,36 +69,36 @@ Please avoid any tree nuts or sesame seeds in any snacks
 
 ### March 25
 
-- Topic:
-- Topic lead:
+- Topic: TBD (SSH workshop?)
+- Topic lead: Nick/Dylan
 - Snack:
 
 **Note**: unable to secure first floor conference room for this date. Meeting will need to be remote or in another room
 
 ### April 1
 
-- Topic:
-- Topic lead:
+- Topic: Peter paper discussion
+- Topic lead: Peter
 - Snack:
 
 ### April 8
 
-- Topic:
-- Topic lead:
+- Topic: Joseph thesis presentation
+- Topic lead: Evan
 - Snack:
 
 ### April 15
-- Topic:
-- Topic lead:
+- Topic: Zinny paper discussion
+- Topic lead: Zinny
 - Snack:
 
 ### April 22
-- Topic:
-- Topic lead:
+- Topic: Brad introduction presentation (?)
+- Topic lead: Brad
 - Snack:
 
 ### April 29
-- Topic:
+- Topic: Azaj/Peter data and prelim findings presentation
 - Topic lead:
 - Snack:
 
