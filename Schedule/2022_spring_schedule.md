@@ -9,7 +9,7 @@ At the beginning of each meeting we will discuss:
 - research help needed
 - upcoming events/conferences
 
-*IMPORTANT*
+**IMPORTANT**
 Please avoid any tree nuts or sesame seeds in any snacks
 
 ### January 21
@@ -60,12 +60,7 @@ Please avoid any tree nuts or sesame seeds in any snacks
 - Snack:
 
 ### March 18 (note: spring break March 12-20)
-
-- Topic:
-- Topic lead:
-- Snack:
-
-**Note**: Spring break is from March 12-20- might be worth skipping this week's meeting
+*no lab meeting, spring break*
 
 ### March 25
 
@@ -73,7 +68,7 @@ Please avoid any tree nuts or sesame seeds in any snacks
 - Topic lead: Nick/Dylan
 - Snack:
 
-**Note**: unable to secure first floor conference room for this date. Meeting will need to be remote or in another room
+**Note**: unable to secure first floor conference room; meeting will be remote
 
 ### April 1
 
@@ -83,7 +78,7 @@ Please avoid any tree nuts or sesame seeds in any snacks
 
 ### April 8
 
-- Topic: Joseph thesis presentation
+- Topic: Presentation on Joseph's thesis and the physiology add on from his experiment
 - Topic lead: Evan
 - Snack:
 
