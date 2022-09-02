@@ -54,9 +54,9 @@ Snack: Evan
 
 ### October 21
 
-Lead:
+Lead: Alicia (chat about microbial communities)
 
-Snack:
+Snack: Andrea
 
 ### October 28
 
@@ -80,14 +80,8 @@ Snack: Pawan
 
 Lead: Peter (topic TBD)
 
-Snack:
+Snack: Snehanjana
 
 ### November 25
 
 Day after Thanksgiving, no lab meeting
-
-### December 2
-
-Lead:
-
-Snack:
