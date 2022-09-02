@@ -48,9 +48,9 @@ Snack: Alex
 
 ### October 14
 
-Lead:
+Lead: Taiwo (practice defense talk)
 
-Snack:
+Snack: Evan
 
 ### October 21
 
