@@ -24,13 +24,13 @@ Snack: Eve
 
 ### September 16
 
-Lead: New people intros (Hannah, Snehanjana, Eve)
+Lead: New people intros (Sara and Alex)
 
 Snack: Zinny
 
 ### September 23
 
-Lead: Lab tour (Sara and Alex)
+Lead: Lab tour
 
 Snack: Brad
 
