@@ -10,8 +10,7 @@ At the beginning of each meeting we will discuss:
 - upcoming events/conferences
 
 **IMPORTANT**
-Please avoid any tree nuts or sesame seeds in any snacks
-
+Please avoid any tree nuts, pork, fish, shellfish  in any snacks
 
 ### September 2
 
@@ -19,33 +18,33 @@ Semester planning
 
 ### September 9
 
-Lead:
+Lead: New people intros (Smith Lab folks)
 
-Snack:
+Snack: Eve
 
 ### September 16
 
-Lead:
+Lead: New people intros (Hannah, Snehanjana, Eve)
 
-Snack:
+Snack: Zinny
 
 ### September 23
 
-Lead:
+Lead: Lab tour (Sara and Alex)
 
-Snack:
+Snack: Brad
 
 ### September 30
 
-Lead:
+Lead: Dylan plant ID workshop
 
-Snack:
+Snack: Dylan
 
 ### October 7
 
 Lead:
 
-Snack:
+Snack: Alex
 
 ### October 14
 
@@ -61,25 +60,25 @@ Snack:
 
 ### October 28
 
-Lead:
+Lead: Pawan practice poster presentation
 
-Snack:
+Snack: Peter
 
 ### November 4
 
-Lead:
+Lead: Tom - practice talk
 
-Snack:
+Snack: Nick
 
 ### November 11
 
-Lead:
+Lead: Zinny
 
-Snack:
+Snack: Pawan
 
 ### November 18
 
-Lead:
+Lead: Peter (topic TBD)
 
 Snack:
 
