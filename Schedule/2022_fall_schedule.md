@@ -42,7 +42,7 @@ Snack: Dylan
 
 ### October 7
 
-Lead:
+Lead: Tom practice presentation
 
 Snack: Alex
 
