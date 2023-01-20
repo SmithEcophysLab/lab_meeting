@@ -15,76 +15,65 @@ January 20
 Semester planning
 
 January 27
-Lead: 
+Lead: Dylan (paper)/ Lab cleaning
 
-Snack: 
+Snack: Pawan
 
 February 3
-Lead: 
+Lead: Alissar and Kelly - Introduction
 
-Snack: 
+Snack: Monika
 
 February 10
-Lead: 
+Lead: Isa/Monika - Research ideas
 
-Snack: 
+Snack: Eve
 
 Feburary 17
-Lead: 
+Lead: Azaj Msc defences
 
-Snack: 
-
-February 17
-Lead: 
-
-Snack: 
+Snack: Azaj
 
 Februray 24
-Lead: 
+Lead: Evan PhD defence
 
-Snack: 
+Snack: Evan
 
 March 3
-Lead: 
+Lead: Nursema
 
-Snack: 
+Snack: Nursema
 
 March 10
-Lead: 
-
-Snack:
+Spring Break
 
 March 17
-Lead: 
-
-Snack: 
+Spring Break
 
 March 24
-Lead: 
+Lead: Garry, Cameron, Andrea, Lexie
 
-Snack: 
+Snack: Nick
 
 March 31
-Lead: 
+Lead: Heath, Hannah and Gwen
 
-Snack: 
+Snack: Dylan
 
 April 7 
-Lead: 
+Lead: Peter TBD
 
-Snack: 
+Snack: Peter
 
 April 14
-Lead: 
+Lead: Field safety training
 
-Snack: 
+Snack: Zinny
 
 April 21
-Lead: 
+Lead: Zinny (TBD)
 
-Snack: 
+Snack: Isa
 
 April 28
-Lead: 
-
-Snack: 
+No meeting
