@@ -1,5 +1,5 @@
-Topic Schedule for Spring 2022 Lab Meetings
-Lab meeting time is 3:00-4:00 PM on Fridays, unless otherwise noted
+Topic Schedule for Spring 2023 Lab Meetings
+Lab meeting time is 2:00-3:00 PM on Fridays, unless otherwise noted
 Below is a topic schedule for every lab meeting this semester.
 
 At the beginning of each meeting we will discuss:
