@@ -35,14 +35,14 @@ Lead: Azaj Msc defences
 Snack: Azaj
 
 Februray 24
-Lead: Evan PhD defence
-
-Snack: Evan
-
-March 3
 Lead: Nursema
 
 Snack: Nursema
+
+March 3
+Lead:  Evan PhD defence
+
+Snack: Evan
 
 March 10
 Spring Break
