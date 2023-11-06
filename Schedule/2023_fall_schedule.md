@@ -45,6 +45,6 @@ November 15, 2023
 - snack: Kelly
 
 November 29, 2023
-- topic: Party!
-- lead: All
+- topic: Alex game and Party!
+- lead: Alex
 - snack: Natasja + All
