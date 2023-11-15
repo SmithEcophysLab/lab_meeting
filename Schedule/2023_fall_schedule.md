@@ -48,3 +48,6 @@ November 29, 2023
 - topic: Alex game and Party!
 - lead: Alex
 - snack: Natasja + All
+
+December 6, 2023
+- LAB CLEANUP
