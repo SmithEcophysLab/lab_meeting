@@ -1,0 +1,33 @@
+# smith lab meeting notes
+## january 5, 2024
+
+- plans/goals for the semester
+	- eve's experiment ending this month
+	- pennsyvania field work: april to july
+		- evan there the whole time
+		- hannah after graduation
+		- kelly helping at some point
+	- first week of march for trillium trail meeting
+		- dedicated writing time
+		- need to book a room/area/etc
+	- nutnet fertilizing
+	- grinding and weighing
+		- smith lab calendar for microbalance
+	- kelly pilot experiment
+	- writing class happening
+	- will need chambers for BIOL 1401 cure
+		- nick to talk to pawan about chamber usage
+	- TTABS feb 9-10
+		- at the SUB
+	- URC april 8-12
+- time for regular lab meetings
+	- mondays at 3 starting jan 8
+- current updates to research, broken things, etc.
+	- costech still in limbo
+	- all else good!
+- please keep lab spaces clean!
+	- monday cleaning
+- a new lab name (I have ideas!)??
+	- PhUNFETTy: physiology for understanding novel ecosystems at TT university
+- nick needs to buy microwave
+	- someone will send link
