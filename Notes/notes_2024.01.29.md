@@ -14,3 +14,10 @@
 - potential visitor: jan lankhorst (UU) for greenhouse experiment (alissar lead)
 
 ## meeting notes
+- growth chambers open tomorrow
+- licors put away
+	- all working fine
+- ttab poster demos on Monday next week
+- nutnet lubbock data analysis
+	- thursday at 10
+- 
