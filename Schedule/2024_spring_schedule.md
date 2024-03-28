@@ -36,10 +36,10 @@ March 28
 Lead: Monika
 
 April 4
-Lead: Eve
+Lead: URC practice
 
 April 11
-URC!
+Lead: Eve
 
 April 18
 Lead: Isa
