@@ -5,7 +5,7 @@
 - dan research
 
 ## sep 23
-- alissar research
+- evan research
 
 ## sep 30
 - eve practice talk
@@ -14,7 +14,7 @@
 - zinny research
 
 ## oct 14
-- evan research
+- alissar research
 
 ## oct 21
 - snehanjana research
