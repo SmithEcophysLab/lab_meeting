@@ -11,5 +11,29 @@
 	- proposed dates (core sampling): Sept 20-21
 	- proposed dates (Isa sampling): Sept 27-28
 
+## sep 19
+- NutNet sampling prep
 
+## sep 26
+- NutNet sampling prep
 
+## oct 3
+- lemontree meeting in Seoul recap
+
+## oct 10
+- snehanjana quals practice
+
+## oct 17
+- isa quals practice
+
+## oct 24
+- monika quals practice?
+
+## oct 31
+
+## nov 6
+
+## nov 13
+
+## nov 20
+- agu presentation practice
