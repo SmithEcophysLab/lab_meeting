@@ -12,7 +12,30 @@
 	- proposed dates (Isa sampling): Sept 27-28
 
 ## sep 19
+- discuss any lingering issues from lab cleanup
+- anyone seen some hydrogen peroxide?
+- discuss NutNet sampling
+	- proposal: do all sampling on 9/20 and skip 9/27
+	- meeting time/place
+	- cars/drivers
+	- gate code
+	- attire/what to bring
 - NutNet sampling prep
+	- gather materials
+		- paper bags
+		- ziplock bags
+		- trash bags
+		- clippers
+		- sharpies
+		- pvc quadrats and clip strips
+		- meter sticks
+		- soil corers
+		- coolers
+		- ice/dry ice
+		- carts
+		- plot ID sheets
+	- label bags
+	- pack truck?
 
 ## sep 26
 - NutNet sampling prep
