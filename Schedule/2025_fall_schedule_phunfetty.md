@@ -38,7 +38,18 @@
 	- pack truck?
 
 ## sep 26
-- NutNet sampling prep
+- general discussion/lab issues
+- IDP general discussion
+	- going well so far!
+	- could this be better?
+	- some not yet done
+- discuss NutNet sampling this Saturday (Isa cores)
+- find plan for weighing NutNet biomass
+- upcoming meetings
+	- oct 3: lemontree meeting discussion
+	- oct 10: snehanjana qual practice
+	- oct 17: isa qual practice
+	- oct 24: monika qual practice?
 
 ## oct 3
 - lemontree meeting in Seoul recap
