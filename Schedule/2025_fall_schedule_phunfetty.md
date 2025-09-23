@@ -39,6 +39,7 @@
 
 ## sep 26
 - general discussion/lab issues
+- Ene Nepesova
 - IDP general discussion
 	- going well so far!
 	- could this be better?
