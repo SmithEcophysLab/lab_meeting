@@ -56,6 +56,7 @@
 	- oct 24: monika qual practice?
 
 ## oct 3
+- go over [lab project database][https://github.com/SmithEcophysLab/lab_project_database]
 - lemontree meeting in Seoul recap
 
 ## oct 10
