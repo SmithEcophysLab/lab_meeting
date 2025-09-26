@@ -40,6 +40,7 @@
 ## sep 26
 - general discussion/lab issues
 - Ene Nepesova
+	- possible new undergrad technician
 - IDP general discussion
 	- going well so far!
 	- could this be better?
