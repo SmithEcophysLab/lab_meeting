@@ -39,6 +39,8 @@
 
 ## sep 26
 - general discussion/lab issues
+  	- multispeq
+  	- liquid n
 - Ene Nepesova
 	- possible new undergrad technician
 - IDP general discussion
