@@ -56,8 +56,12 @@
 	- oct 24: monika qual practice?
 
 ## oct 3
+- general discussion/lab issues
 - go over [lab project database][https://github.com/SmithEcophysLab/lab_project_database]
 - lemontree meeting in Seoul recap
+- discuss format for qualifier practice
+	- candidate to send proposal
+	- group to formulate questions
 
 ## oct 10
 - snehanjana quals practice
