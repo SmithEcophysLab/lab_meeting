@@ -76,10 +76,11 @@
 - monika quals practice?
 
 ## oct 31
+- no lab meeting
 
 ## nov 6
 
 ## nov 13
-
+- meta-analysis chat
 ## nov 20
 - agu presentation practice
