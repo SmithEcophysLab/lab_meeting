@@ -57,8 +57,11 @@
 
 ## oct 3
 - general discussion/lab issues
+- discuss undergraduate assistance
+	- who is doing what?
 - go over [lab project database][https://github.com/SmithEcophysLab/lab_project_database]
 - lemontree meeting in Seoul recap
+	- [slides][../presentations/lemontree2025_overview.pptx]
 - discuss format for qualifier practice
 	- candidate to send proposal
 	- group to formulate questions
