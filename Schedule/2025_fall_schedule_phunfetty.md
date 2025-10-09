@@ -67,7 +67,12 @@
 	- group to formulate questions
 
 ## oct 10
+- general discussion/lab issues
+- possible trainings next week
+	- elemental analyzer (i.e., costech)
+	- plate reader
 - snehanjana quals practice
+	- everyone brings a question to ask
 
 ## oct 17
 - isa quals practice
