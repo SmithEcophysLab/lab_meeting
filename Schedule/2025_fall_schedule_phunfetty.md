@@ -75,6 +75,13 @@
 	- everyone brings a question to ask
 
 ## oct 17
+- general discussion/lab issues
+- possible trainings next week
+- lab visit from Camila Freire (Princeton)
+	- interested in learning grass physiology techniques
+		- stomatal peels/counts
+		- leaf water potential
+		- porometer
 - isa quals practice
 
 ## oct 24
