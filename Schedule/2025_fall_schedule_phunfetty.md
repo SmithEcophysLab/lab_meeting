@@ -85,6 +85,9 @@
 - isa quals practice
 
 ## oct 24
+- general discussion/lab issues
+- anyone still need undergraduate help?
+- Joshua Kwofie (biochem major)
 - monika quals practice?
 
 ## oct 31
