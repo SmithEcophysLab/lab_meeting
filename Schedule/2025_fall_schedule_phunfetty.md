@@ -87,8 +87,7 @@
 ## oct 24
 - general discussion/lab issues
 - anyone still need undergraduate help?
-- Joshua Kwofie (biochem major)
-- monika quals practice?
+	- Joshua Kwofie (biochem major)
 
 ## oct 31
 - no lab meeting
@@ -97,5 +96,6 @@
 
 ## nov 13
 - meta-analysis chat
+
 ## nov 20
 - agu presentation practice
