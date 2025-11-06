@@ -93,6 +93,10 @@
 - no lab meeting
 
 ## nov 6
+- Camila Friere (Princeton PhD student) visiting Dec 1-4 to learn grass physiology measurements
+- interest in a Thanksgiving potluck?
+- general discussion/lab issues
+- round-robin update on ongoing and planned experiments for Fall 2025
 
 ## nov 13
 - meta-analysis chat
