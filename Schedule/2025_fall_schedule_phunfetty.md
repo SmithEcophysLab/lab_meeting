@@ -99,7 +99,9 @@
 - round-robin update on ongoing and planned experiments for Fall 2025
 
 ## nov 14
+- growth chamber planning discussion
 - meta-analysis chat
+- mustard id?
 
 ## nov 21
 - agu presentation practice
