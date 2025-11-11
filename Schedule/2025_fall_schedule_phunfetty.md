@@ -99,6 +99,8 @@
 - round-robin update on ongoing and planned experiments for Fall 2025
 
 ## nov 14
+- general discussion/lab issues
+- IGCAST symposium Nov 20-21 at the Dairy Barn
 - growth chamber planning discussion
 - meta-analysis chat
 - mustard id?
