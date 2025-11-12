@@ -103,7 +103,7 @@
 - IGCAST symposium Nov 20-21 at the Dairy Barn
 - growth chamber planning discussion
 - meta-analysis chat
-- mustard id?
+- mustard id
 
 ## nov 21
 - agu presentation practice
