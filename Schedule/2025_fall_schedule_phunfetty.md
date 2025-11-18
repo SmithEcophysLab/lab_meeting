@@ -106,4 +106,15 @@
 - mustard id
 
 ## nov 21
-- agu presentation practice
+- general discussion/lab issues
+- camila visit planning
+- trillium trail sampling planning
+- lab meetings the rest of the semester?
+- agu presentation practice (isa, sneha, nick)
+
+## nov 28
+- no lab meeting
+
+## dec 5
+
+
