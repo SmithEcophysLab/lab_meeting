@@ -107,6 +107,8 @@
 
 ## nov 21
 - general discussion/lab issues
+- treatment of greenhouse
+- thanksgiving!
 - camila visit planning
 - trillium trail sampling planning
 - lab meetings the rest of the semester?
