@@ -9,6 +9,7 @@
 	- feb 6-9: Gwen junction trip
 	- mar 3-4: great plains soil fertility conference
 	- mar 6-7: TTABSS
+	- apr 8-9: URC
 	- apr 14-16: Leander Love-Anderegg visiting
 	- apr 17: GIA applications due
 	- apr 22: Clara defense
@@ -31,38 +32,38 @@
 		- some from Dr. Love-Anderegg before his visit?
 
 ## feb 6
-
+- Love-Anderegg paper on plant trait-env interactions
 
 ## feb 13
-
+- nick manuscript feedback
 
 ## feb 20
-
+- TTABS practice presentation (grads)
 
 ## feb 27
-
+- TTABS practice presentations (undergrads)
 
 ## mar 6
-- no lab meeting
+- evan manuscript feedback
 
 ## mar 13
-
+- isa manuscript feedback
 
 ## mar 20
-- no lab meeting
+- no lab meeting (Spring Break)
 
 ## mar 27
-
+- garry practice proposal talk
 
 ## apr 3
 - no lab meeting
 
 ## apr 10
-
+- clara practice thesis talk
 
 ## apr 17
-
+- gwen practice thesis talk
 
 ## apr 24
-
+- dan manuscript feedback
 
