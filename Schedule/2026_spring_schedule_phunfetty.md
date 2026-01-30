@@ -10,7 +10,8 @@
 	- mar 3-4: great plains soil fertility conference
 	- mar 6-7: TTABSS
 	- apr 14-16: Leander Love-Anderegg visiting
-	- apr 22: clara defense
+	- apr 22: Clara defense
+	- apr 27: Gwen defense
 	- apr 26-may 10: Nick in Europe
 - summer conferences
 	- esa (jul 26-31; salt lake city): abstract deadline feb 19
