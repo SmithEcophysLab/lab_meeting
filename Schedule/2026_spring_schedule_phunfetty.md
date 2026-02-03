@@ -32,6 +32,10 @@
 		- some from Dr. Love-Anderegg before his visit?
 
 ## feb 6
+- general discussion/lab issues
+- plan for next week
+	- option 1: read/comment on nick's paper (original plan)
+	- option 2: go over conference abstracts (urc, ttabss, esa, etc.)
 - Love-Anderegg paper on plant trait-env interactions
 
 ## feb 13
