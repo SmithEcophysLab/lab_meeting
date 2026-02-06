@@ -37,6 +37,7 @@
 	- option 1: read/comment on nick's paper (original plan)
 	- option 2: go over conference abstracts (urc, ttabss, esa, etc.)
 - Love-Anderegg paper on plant trait-env interactions
+	- [link to guiding slides](../presentations/anderegg2023.pdf)
 
 ## feb 13
 - nick manuscript feedback
