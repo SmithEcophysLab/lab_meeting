@@ -40,10 +40,11 @@
 	- [link to guiding slides](../presentations/anderegg2023.pdf)
 
 ## feb 13
-- nick manuscript feedback
+- abstracts: evan, monika, isa, clara, dan, ava, rea, gwen, garrison
 
 ## feb 20
-- TTABS practice presentation (grads)
+- snehanjana abstract
+- TTABS practice presentation (grads): clara, gwen, monika, dan, garrison
 
 ## feb 27
 - TTABS practice presentations (undergrads)
