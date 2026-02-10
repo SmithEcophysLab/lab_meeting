@@ -41,6 +41,8 @@
 
 ## feb 13
 - general discussion/lab issues
+- clvi samples from Johnson lab
+	- anyone missing these?
 - general abstract discussion
 	- content
 	- titles
