@@ -40,7 +40,12 @@
 	- [link to guiding slides](../presentations/anderegg2023.pdf)
 
 ## feb 13
-- abstracts: evan, monika, isa, clara, dan, ava, rea, gwen, garrison
+- general discussion/lab issues
+- general abstract discussion
+	- content
+	- titles
+	- authors
+- abstract review: evan, monika, isa, clara, dan, ava, rea, gwen, garrison, ene, fawn
 
 ## feb 20
 - snehanjana abstract
