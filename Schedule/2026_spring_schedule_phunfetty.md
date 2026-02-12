@@ -41,6 +41,9 @@
 
 ## feb 13
 - general discussion/lab issues
+	- fallout from EHS inspection
+		- waste container labels in flammables cabinet
+		- need to use non-biowaste bags if not biowaste (e.g., autoclave)
 - clvi samples from Johnson lab
 	- anyone missing these?
 - general abstract discussion
