@@ -45,6 +45,7 @@
 		- waste container labels in flammables cabinet
 		- need to use non-biowaste bags if not biowaste (e.g., autoclave)
 - clvi samples from Johnson lab
+	- old TT samples?
 	- anyone missing these?
 - general abstract discussion
 	- content
