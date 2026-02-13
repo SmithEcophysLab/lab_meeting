@@ -47,6 +47,7 @@
 - clvi samples from Johnson lab
 	- old TT samples?
 	- anyone missing these?
+- anyone interested in working on dust?
 - general abstract discussion
 	- content
 	- titles
