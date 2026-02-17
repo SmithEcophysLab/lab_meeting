@@ -55,6 +55,7 @@
 - abstract review: evan, monika, isa, clara, dan, ava, rea, gwen, garrison, ene, fawn
 
 ## feb 20
+- general discussion/lab issues
 - snehanjana abstract
 - TTABS practice presentation (grads): clara, gwen, monika, dan, garrison
 
