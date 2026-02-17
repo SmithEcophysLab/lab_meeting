@@ -56,10 +56,10 @@
 
 ## feb 20
 - general discussion/lab issues
-- snehanjana abstract
 - TTABS practice presentation (grads): clara, gwen, monika, dan, garrison
 
 ## feb 27
+- snehanjana abstract
 - TTABS practice presentations (undergrads)
 
 ## mar 6
