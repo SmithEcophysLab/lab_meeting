@@ -15,12 +15,13 @@
 
 ## mar 4
 - discussion of general lab issues
+- clean balance/oven/dirt room (409E)
 
 ## apr 1
 - discussion of general lab issues
 
 ## apr 15
-- discussion of general lab issues
+- no lab meeting (anderegg social)
 
 ## apr 29
 - discussion of general lab issues
