@@ -57,12 +57,11 @@
 ## feb 20
 - general discussion/lab issues
 - debrief from ESA abstract submission week
-	- a lot of last minute scrambling
-		- how can we avoid that?
-		- this will also be an issue once the meetings roll around
-		- everything takes longer than you expect (3x rule), get to work early
-	- coordination with co-authors, advisors, funders
-	- remember that you will be expected to present as a peer at these conferences
+	1. a lot of great stuff coming in with this deadline
+		- don't let these deadlines be the only time you work on analysis/writing
+		- keep up the momentum; you can accomplish a lot before your presentation
+			- everything takes longer than you expect (3x rule), get to work early
+	2. coordination with co-authors, advisors, funders
 - TTABS practice presentation (grads): clara, gwen, monika, dan, garrison
 
 ## feb 27
