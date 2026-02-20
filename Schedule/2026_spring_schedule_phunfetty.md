@@ -56,7 +56,7 @@
 
 ## feb 20
 - general discussion/lab issues
-- debrief from ESA abstract submission week
+- debrief from abstract submission week
 	1. a lot of great stuff coming in with this deadline
 		- don't let these deadlines be the only time you work on analysis/writing
 		- keep up the momentum; you can accomplish a lot before your presentation
