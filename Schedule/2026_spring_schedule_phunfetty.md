@@ -65,11 +65,12 @@
 - TTABS practice presentation (grads): clara, gwen, monika, dan, garrison
 
 ## feb 27
+- general discussion/lab issues
 - snehanjana abstract
 - TTABS practice presentations (undergrads)
 
 ## mar 6
-- evan manuscript feedback
+- evan presentation and writing process discussion
 
 ## mar 13
 - isa manuscript feedback
