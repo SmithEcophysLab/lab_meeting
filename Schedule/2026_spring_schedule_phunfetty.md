@@ -66,6 +66,9 @@
 
 ## feb 27
 - general discussion/lab issues
+- licor wants our feedback
+	- what's a 6800 feature that could be improved?
+	- what new 6800 feature would you like to see?
 - snehanjana abstract
 - TTABS practice presentations (undergrads)
 
