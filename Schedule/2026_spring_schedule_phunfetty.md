@@ -76,10 +76,10 @@
 - TTABS practice presentations (undergrads)
 
 ## mar 6
-- evan presentation and writing process discussion
+- TTABSS speaker visits
 
 ## mar 13
-- isa manuscript feedback
+- evan presentation and writing process discussion
 
 ## mar 20
 - no lab meeting (Spring Break)
@@ -88,7 +88,7 @@
 - garry practice proposal talk
 
 ## apr 3
-- no lab meeting
+- isa manuscript feedback
 
 ## apr 10
 - clara practice thesis talk
