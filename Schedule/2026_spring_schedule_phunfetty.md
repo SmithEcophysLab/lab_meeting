@@ -76,7 +76,9 @@
 - TTABS practice presentations (undergrads)
 
 ## mar 6
+- general discussion/lab issues
 - TTABSS speaker visits
+	- details TBD
 
 ## mar 13
 - evan presentation and writing process discussion

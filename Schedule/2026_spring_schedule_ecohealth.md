@@ -15,7 +15,10 @@
 
 ## mar 4
 - discussion of general lab issues
-- clean balance/oven/dirt room (409E)
+- discussion of TTABSS
+	- who's presenting and when?
+	- meetings with speakers (Reich, Suseela, et al.)?
+- clean balance/oven/soil room (409E)
 
 ## apr 1
 - discussion of general lab issues
