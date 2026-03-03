@@ -81,6 +81,9 @@
 	- details TBD
 
 ## mar 13
+- general discussion/lab issues
+- NutNet fertilizing
+	- anyone have time to weigh fertilizer?
 - evan presentation and writing process discussion
 
 ## mar 20
