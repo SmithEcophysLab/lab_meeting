@@ -82,6 +82,7 @@
 
 ## mar 13
 - general discussion/lab issues
+	- nick biases
 - Nfix x N x P experiment
 - NutNet fertilizing
 	- anyone have time to weigh fertilizer?
