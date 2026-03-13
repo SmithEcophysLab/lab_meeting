@@ -83,7 +83,16 @@
 ## mar 13
 - general discussion/lab issues
 	- nick biases
-- Nfix x N x P experiment
+		- nick called into dean's office for anonymous bias complaint related to international versus domestic students/mentees
+			- few details given
+		- hope not to have any biases, but aware that implicit biases may exist (real and/or perceived)
+		- if comfortable, let's discuss any perceived biases
+			- will hopefully lead to quicker resolution
+		- partnerships with undergraduate students
+			- generally will not be directed by nick
+			- should be mutually beneficial with undergraduates directly involved in the research
+			- if collaboration is agreed to by both parties, please talk to nick about feasibility/funding
+- Nfix x N x P experiment (niyomi and evan)
 - NutNet fertilizing
 	- anyone have time to weigh fertilizer?
 - evan presentation and writing process discussion
