@@ -101,6 +101,7 @@
 - no lab meeting (Spring Break)
 
 ## mar 27
+- general discussion/lab issues
 - garry practice proposal talk
 
 ## apr 3
