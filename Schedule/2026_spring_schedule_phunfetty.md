@@ -102,6 +102,10 @@
 
 ## mar 27
 - general discussion/lab issues
+- new lab feedback form
+	- form is to provide **anonymous** feedback to Nick about anything related to you/PhUnFETTy lab
+	- all answers are anonymized, but you can sign your name if you'd like
+	- [link to form](https://forms.gle/NxDyr32kVfqofFnCA)
 - garry practice proposal talk
 
 ## apr 3
