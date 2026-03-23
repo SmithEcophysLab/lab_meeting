@@ -22,6 +22,10 @@
 
 ## apr 1
 - discussion of general lab issues
+- lab cleaning
+	- wrap and remove the glass cabinet
+	- label and/or remove samples from room 409E
+	- PI's to review and assess large lab equipment
 
 ## apr 15
 - no lab meeting (anderegg social)
