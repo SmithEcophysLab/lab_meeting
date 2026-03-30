@@ -22,6 +22,7 @@
 
 ## apr 1
 - discussion of general lab issues
+- anderegg visit discussion
 
 ## apr 15
 - no lab meeting (anderegg social)
