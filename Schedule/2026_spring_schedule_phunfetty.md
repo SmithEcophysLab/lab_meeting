@@ -109,7 +109,8 @@
 - garry practice proposal talk
 
 ## apr 3
-- isa manuscript feedback
+- general discussion/lab issues
+- evan presentation and writing process discussion
 
 ## apr 10
 - clara practice thesis talk
