@@ -113,6 +113,8 @@
 - evan presentation and writing process discussion
 
 ## apr 10
+- general discussion/lab issues
+	- fertilizing happening today
 - clara practice thesis talk
 
 ## apr 17
