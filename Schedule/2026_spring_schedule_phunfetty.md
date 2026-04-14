@@ -118,6 +118,7 @@
 - clara practice thesis talk
 
 ## apr 17
+- general discussion/lab issues
 - gwen practice thesis talk
 
 ## apr 24
