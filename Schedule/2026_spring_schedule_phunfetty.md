@@ -119,6 +119,8 @@
 
 ## apr 17
 - general discussion/lab issues
+	- ESA on the cheap
+	- gift for alissar
 - gwen practice thesis talk
 
 ## apr 24
