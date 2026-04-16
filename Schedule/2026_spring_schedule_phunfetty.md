@@ -121,6 +121,7 @@
 - general discussion/lab issues
 	- ESA on the cheap
 	- gift for alissar
+	- fertilizer storage
 - gwen practice thesis talk
 
 ## apr 24
