@@ -123,6 +123,7 @@
 	- gift for alissar
 	- fertilizer storage
 - gwen practice thesis talk
+- Lee Anderegg visit impressions
 
 ## apr 24
 - dan manuscript feedback
