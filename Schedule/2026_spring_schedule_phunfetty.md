@@ -126,5 +126,9 @@
 - Lee Anderegg visit impressions
 
 ## apr 24
-- dan manuscript feedback
+- general discussion/lab issues
+	- fume hood use for p-frac
+	- proper chemical storage (hoagland's)
+	- nick gone until may 13
+- Lee Anderegg visit impressions
 
