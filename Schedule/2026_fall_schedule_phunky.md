@@ -19,10 +19,10 @@
 - no lab meeting (labor day)
 
 ## sep 14
-
+- evan (faculty application package)
 
 ## sep 21
-
+- snehanjana (ch 1 ms)
 
 ## sep 28
 
@@ -36,7 +36,7 @@
 - no lab meeting (fall break)
 
 ## oct 26
-
+- isa (ch 1 ms)
 
 ## nov 2
 
@@ -45,7 +45,7 @@
 
 
 ## nov 16
-
+- rea review paper discussion
 
 ## nov 23
 - no lab meeting
