@@ -19,7 +19,9 @@
 - no lab meeting (labor day)
 
 ## sep 14
-- evan (faculty application package)
+- general discussion/lab issues
+- discussion of faculty application packages (evan)
+	- broaden to encompass job applications more generally
 
 ## sep 21
 - snehanjana (ch 1 ms)
