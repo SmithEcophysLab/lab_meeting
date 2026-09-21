@@ -24,6 +24,10 @@
 	- broaden to encompass job applications more generally
 
 ## sep 21
+- general discussion/lab issues
+	- switch meeting to Zoom?
+	- sep 28 and oct 5 meetings: what should we do?
+	- oct 12: nick out of town (cancel? rejoice/party?)
 - snehanjana (ch 1 ms)
 
 ## sep 28
