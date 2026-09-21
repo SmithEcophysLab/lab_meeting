@@ -34,9 +34,10 @@
 
 
 ## oct 5
-
+- monika manuscript
 
 ## oct 12
+- no lab meeting
 
 ## oct 19
 - no lab meeting (fall break)
