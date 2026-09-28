@@ -31,7 +31,7 @@
 - snehanjana (ch 1 ms)
 
 ## sep 28
-
+- general discussion/lab issues
 
 ## oct 5
 - monika manuscript
