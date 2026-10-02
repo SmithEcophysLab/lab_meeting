@@ -34,7 +34,9 @@
 - general discussion/lab issues
 
 ## oct 5
-- monika manuscript
+- **meeting switching to Zoom: https://unl.zoom.us/j/6110372534**
+- general discussion/lab issues
+- monika presenting some thesis results
 
 ## oct 12
 - no lab meeting
