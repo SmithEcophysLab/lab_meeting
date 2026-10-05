@@ -48,7 +48,7 @@
 - isa (ch 1 ms)
 
 ## nov 2
-
+- revisit monika's analyses
 
 ## nov 9
 
