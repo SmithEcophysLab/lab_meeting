@@ -45,6 +45,7 @@
 - no lab meeting (fall break)
 
 ## oct 26
+- general discussion/lab issues
 - isa (ch 1 ms)
 
 ## nov 2
