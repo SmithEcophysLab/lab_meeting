@@ -55,7 +55,9 @@
 - revisit monika's analyses
 
 ## nov 9
-
+- general discussion/lab issues
+- revisit monika's analyses
+- stats discussion (snehanjana lead)
 
 ## nov 16
 - rea review paper discussion
