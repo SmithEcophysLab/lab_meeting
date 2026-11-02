@@ -49,6 +49,9 @@
 - isa (ch 1 ms)
 
 ## nov 2
+- general discussion/lab issues
+- what to do next week?
+	- stats discussion?
 - revisit monika's analyses
 
 ## nov 9
