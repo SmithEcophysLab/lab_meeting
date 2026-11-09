@@ -60,7 +60,9 @@
 - stats discussion (snehanjana lead)
 
 ## nov 16
+- general discussion/lab issues
 - rea review paper discussion
+- stats discussion ctd. (snehanjana lead)
 
 ## nov 23
 - no lab meeting
